@@ -1,23 +1,22 @@
 nombre,precio,dormitorios,baños,metros,direccion,ciudad
+Arriendo Departamento 3 Dorm.2b Condominio Chinchorro Norte,$500.000,3 dormitorios,2 baños,53 m² útiles,"Condominio Chinchorro Norte 1, Arica, Arica Y Parinacota",arica
 Moderno Y Nuevo Depto En Novo Azapa!,$560.000,1 dormitorio,1 baño,35 m² útiles,"MANUEL CASTILLO IBACETA, 1 - 300, Arica, Arica Y Parinacota",arica
-Lindo Departamento En Las Palmas,$550.000,3 dormitorios,2 baños,70 m² útiles,"Arica, Arica Y Parinacota",arica
-Arriendo Empart V,$570.000,3 dormitorios,2 baños,78 m² útiles,"Robinson Rojas 3459, Arica, Arica, Arica Y Parinacota",arica
 Tu Hogar Costero De Ensueño En Arica,$600.000,3 dormitorios,1 baño,61 m² útiles,"AMADOR NEGHME, 1 - 300, Arica, Arica Y Parinacota",arica
 Arriendo La Lisera,$1.150.000,2 dormitorios,2 baños,,"Punta Del Este 658, Arica, Arica, Arica Y Parinacota",arica
+Arriendo Empart V,$570.000,3 dormitorios,2 baños,78 m² útiles,"Robinson Rojas 3459, Arica, Arica, Arica Y Parinacota",arica
+Lindo Departamento En Las Palmas,$550.000,3 dormitorios,2 baños,70 m² útiles,"Arica, Arica Y Parinacota",arica
 En Condominio San Marcos Departamento En Arriendo,$510.000,3 dormitorios,1 baño,60 m² útiles,"Arica, Arica Y Parinacota",arica
 Arriendo Mini Depto Arica Entrada De Azapa,$350.000,1 dormitorio,1 baño,35 m² útiles,"Llareta, 40 A, Arica, Arica Y Parinacota",arica
 Exclusivo Departamento Frente Al Mar,$1.300.000,3 dormitorios,1 baño,100 m² útiles,"Avenida Comandante San Martín, 320, Arica, Arica Y Parinacota",arica
 Comodo Departamento Recien Pintado,$570.000,3 dormitorios,2 baños,60 m² útiles,"Pasaje Caritaya, 195, Arica, Arica Y Parinacota",arica
 Condominio San Marcos Zona Norte,$650.000,3 dormitorios,2 baños,60 m² útiles,"Ramón Carnicer Oriente, 3246, Arica, Arica Y Parinacota",arica
-Arriendo Terrazas De Marsella Arica,$535.000,3 dormitorios,1 baño,75 m² útiles,"Marsella , 555, Arica, Arica Y Parinacota",arica
 Departamento Condominio Panorama,$450.000,3 dormitorios,2 baños,65 m² útiles,"Coihueco, 550, Arica, Arica Y Parinacota",arica
-Departamento Primer Piso 2 Dormitorios 2 Baños,$550.000,2 dormitorios,2 baños,70 m² útiles,"Guillermo Sánchez, 670, Arica, Arica Y Parinacota",arica
+Arriendo Terrazas De Marsella Arica,$535.000,3 dormitorios,1 baño,75 m² útiles,"Marsella , 555, Arica, Arica Y Parinacota",arica
 Depto 21 Con Oscar Belmar Piso 3,$380.000,2 dormitorios,1 baño,65 m² útiles,"Luis Valente Rossi , 2274, Arica, Arica Y Parinacota",arica
-Arriendo Departamento 3 Dorm.2b Condominio Chinchorro Norte,$500.000,3 dormitorios,2 baños,53 m² útiles,"Condominio Chinchorro Norte 1, Arica, Arica Y Parinacota",arica
+Condominio Novo Azapa,$620.000,2 dormitorios,2 baños,59 m² útiles,"CONDOMINIO NOVO AZAPA, Arica, Arica Y Parinacota",arica
 Lindo Departamemto Amoblado (95638),$600.000,2 dormitorios,1 baño,56 m² útiles,"Avenida Manuel Castillo Ibaceta 1 - 300, Arica, Arica Y Parinacota",arica
 Departamento En Arriendo Disponible (96529),$650.000,3 dormitorios,2 baños,76 m² útiles,"Caracas 1 - 300, Arica, Arica Y Parinacota",arica
-Condominio Novo Azapa,$620.000,2 dormitorios,2 baños,59 m² útiles,"CONDOMINIO NOVO AZAPA, Arica, Arica Y Parinacota",arica
-Arriendo Departamento Xl Amoblado En Condominio Doña Isidora,$800.000,3 dormitorios,2 baños,90 m² útiles,"Ginebra 4081, Arica, Arica, Arica Y Parinacota",arica
+Arriendo Departamento 2d/2b/est Condominio Bosques De Azapa,$560.000,2 dormitorios,2 baños,64 m² útiles,"Guillermo Sánchez 660, Arica, Arica, Arica Y Parinacota",arica
 Agradable Departamento En Condominio Terrazas De Marsella,$600.000,3 dormitorios,1 baño,61 m² útiles,"Arica, Arica Y Parinacota",arica
 Excelente Departamento En Condominio Vista 21,$700.000,3 dormitorios,2 baños,82 m² útiles,"Arica, Arica Y Parinacota",arica
 En Bosque Azapa Lindo Departamento En Arriendo,$790.000,3 dormitorios,2 baños,98 m² útiles,"Arica, Arica Y Parinacota",arica
@@ -26,119 +25,130 @@ Arriendo Departamento En Novo Azapa,$450.000,2 dormitorios,1 baño,50 m² útile
 Departamento En Arriendo De 3 Dorm. En Arica,$420.000,3 dormitorios,1 baño,49 m² útiles,"Ginebra Con Mentón, Arica, Arica Y Parinacota",arica
 Depto Neo Azapa - Gc Incluidos - Disponible Julio,$500.000,1 dormitorio,1 baño,40 m² útiles,"Av. Manuel Castillo Ibaceta, Arica, Arica, Arica Y Parinacota",arica
 Bello Departamento Sector Residencial,$780.000,3 dormitorios,2 baños,105 m² útiles,"Colombia 436, 1001121 Arica, Arica Y Parinacota, Chile, Arica, Arica Y Parinacota",arica
-Arriendo Departamento 2d/2b/est Condominio Bosques De Azapa,$560.000,2 dormitorios,2 baños,64 m² útiles,"Guillermo Sánchez 660, Arica, Arica, Arica Y Parinacota",arica
 Minidepartamento Primer Piso,$240.000,1 dormitorio,1 baño,40 m² útiles,"Caleta Coloso  808, Arica, Arica Y Parinacota",arica
-Departamento Central,$430.000,2 dormitorios,1 baño,70 m² útiles,"Guatemala, Arica, Arica, Arica Y Parinacota",arica
 Arriendo Departamento Primer Piso,$450.000,3 dormitorios,1 baño,60 m² útiles,"Av. Santiago Arata 4083, Arica, Arica Y Parinacota, Chile, Arica, Arica Y Parinacota",arica
-Arriendo Departamento Amoblado 3 Habitaciones En Iquique,$850.000,3 dormitorios,2 baños,84 m² útiles,"Av. 4 Sur 2400 - 2700, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
+Departamento Central,$430.000,2 dormitorios,1 baño,70 m² útiles,"Guatemala, Arica, Arica, Arica Y Parinacota",arica
 Vista Al Mar !! Gastos Comunes Incluidos !! 3 D 2 B Est  Bod,$700.000,3 dormitorios,2 baños,90 m² útiles,"Eleuterio Ramirez 1559, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Eleuterio Ramirez- Gastos Comunes Incluidos  3d 2b  1 Est 1b,$700.000,3 dormitorios,2 baños,90 m² útiles,"Eleuterio Ramirez 1559, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Edificio Vista Azul / Aníbal Pinto,$800.000,2 dormitorios,2 baños,70 m² útiles,"Aníbal Pinto 1303, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Departamento Amoblado Edificio Campanario Iii Iquique,$1.050.000,4 dormitorios,3 baños,113 m² útiles,"Playa Brava 2929, Iquique, Playa Brava, Iquique, Tarapacá",iquique
+Departamento Full Amoblado Con Vista Al Mar -oceánica- P16,$790.000,2 dormitorios,2 baños,57 m² útiles,"Edificio Oceanica, Cerro Dragón, Iquique, Tarapacá",iquique
 Edificio Costanera Huayquique I  / Av. Cinco,$640.000,1 dormitorio,1 baño,45 m² útiles,"Av. Cinco 4300, Iquique, Huayquique, Iquique, Tarapacá",iquique
-Edificio Costa El Aguila / Salitrera Providencia,$1.000.000,3 dormitorios,2 baños,99 m² útiles,"Salitrera Providencia, Iquique, Playa Brava, Iquique, Tarapacá",iquique
 Edificio Vistamar / Av.reinamar,$750.000,3 dormitorios,2 baños,73 m² útiles,"Av. Reinamar 2613, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
+Edificio Vista Azul / Aníbal Pinto,$800.000,2 dormitorios,2 baños,70 m² útiles,"Aníbal Pinto 1303, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+Condominio Carrara,$1.400.000,5 dormitorios,3 baños,160 m² útiles,"Av. Arturo Prat Chacón 3783, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Departamento Amoblado Edificio Campanario Iii Iquique,$1.050.000,4 dormitorios,3 baños,113 m² útiles,"Playa Brava 2929, Iquique, Playa Brava, Iquique, Tarapacá",iquique
 Edificio Nostro Mare / Condominio Puesta Del Sol,$750.000,2 dormitorios,2 baños,70 m² útiles,"Cinco Sur 4272, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
-Edificio Radiata / Cerro Colorado,$680.000,3 dormitorios,2 baños,85 m² útiles,"Cerro Colorado 3781, Iquique, Huayquique, Iquique, Tarapacá",iquique
-Edificio Matiz / San Martín,$500.000,1 dormitorio,1 baño,32 m² útiles,"San Martín 641, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado Con Increíble Vista En Sector,$850.000,2 dormitorios,2 baños,95 m² útiles,"Pje. Cam. A La Playa 1800 - 2100, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Edificio Life / Obispo Labbe,$800.000,2 dormitorios,2 baños,56 m² útiles,"Obispo Labbé, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+Edificio Reina Ana / Av. Salvador Allende,$650.000,3 dormitorios,2 baños,78 m² útiles,"Av. Salvador Allende Gossens 450, Iquique, Hospital Regional, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado 3 Habitaciones En Iquique,$850.000,3 dormitorios,2 baños,84 m² útiles,"Av. 4 Sur 2400 - 2700, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 "Arriendo Dpto. 1 Dormitorio, Brisas Del Sur 2, Iquique",$600.000,1 dormitorio,1 baño,48 m² útiles,"Av. Proyectada 2620, Iquique, Huayquique, Iquique, Tarapacá",iquique
-Arriendo Depto. En Conjunto Habitacional Altos De Mar,$620.000,2 dormitorios,1 baño,50 m² útiles,"Av. La Tirana 3900 - 4200, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Condominio La Tirana / Av. Cinco,$970.000,3 dormitorios,2 baños,120 m² útiles,"Avenida Cinco, Huayquique, Iquique, Tarapacá",iquique
 "Arriendo Dpto. Amoblado Sector Sur, Ed. Torres De Huayquique",$900.000,3 dormitorios,2 baños,100 m² útiles,"Av. La Tirana 5445, Iquique, Bajo Molle, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado 3 Dormitorios Iquique,$900.000,3 dormitorios,2 baños,115 m² útiles,"Av. Arturo Prat Chacón 1670, Iquique, Chile, Cavancha, Iquique, Tarapacá",iquique
-Propiedad En Arriendo Depto Iquique,$600.000,2 dormitorios,1 baño,65 m² útiles,"Avenida Dos Oriente 4833, Iquique, Chile, Iquique, Tarapacá",iquique
-Playa  Brava  Nuevo  1d 1b Bod Y Estac Santiago Polanco 207,$550.000,1 dormitorio,1 baño,32 m² útiles,"Avenida Santiago Polanco 2075, Iquique, Chile, Playa Brava, Iquique, Tarapacá",iquique
-Arriendo Departamento En Iquique 2 Dormitorios + 1 Pieza Peq,$560.000,3 dormitorios,1 baño,50 m² útiles,"Condominio Horizonte - Avenida 4 Sur, 2640, Departamento 1604, Iquique, Chile, Cerro Dragón, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 2 Dorm Amob Mirador 2 En Iquique,$800.000,2 dormitorios,2 baños,20 m² totales,"MANUEL PLAZA CON CASTRO RAMOS, Playa Brava, Iquique, Tarapacá",iquique
+Edificio Portal Los Héroes / Emilio Recabarren,$800.000,3 dormitorios,2 baños,85 m² útiles,"Av. Luis Emilio Recabarren 2799, Iquique, Gómez Carreño, Iquique, Tarapacá",iquique
 "Departamento En Arriendo De 2 Dorm Edificio Velamar ,iquique",$770.000,2 dormitorios,2 baños,60 m² totales,"MANUEL JESUS SILVA CON AV PLAYA BRAVA ALTURA DON TORO, Playa Brava, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$800.000,3 dormitorios,2 baños,88 m² útiles,"AV BILBAO ENTRE COLEGIO HISPANO BRITANICO Y LIDER SUR, Iquique, Tarapacá",iquique
-Arriendo Departamento Edificio Paradise,$1.100.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Santiago Polanco, 2075, Playa Brava, Iquique, Tarapacá",iquique
-Mirador Playa Brava Arriendo Departamento,$1.100.000,2 dormitorios,2 baños,70 m² útiles,"Manuel Plaza, 2989, Playa Brava, Iquique, Tarapacá",iquique
-Departamento Full Amoblado Con Vista Al Mar -oceánica- P16,$790.000,2 dormitorios,2 baños,57 m² útiles,"Edificio Oceanica, Cerro Dragón, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado 3 Dormitorios Iquique,$900.000,3 dormitorios,2 baños,115 m² útiles,"Av. Arturo Prat Chacón 1670, Iquique, Chile, Cavancha, Iquique, Tarapacá",iquique
+Departamento En Arriendo Iquique,$600.000,2 dormitorios,1 baño,65 m² útiles,"Avenida Dos Oriente 4833, Iquique, Chile, Iquique, Tarapacá",iquique
+Unico Nuevo  1d1b Bodega Estacionamiento  Santiago Polanco 2,$550.000,1 dormitorio,1 baño,32 m² útiles,"Avenida Santiago Polanco 2075, Iquique, Chile, Playa Brava, Iquique, Tarapacá",iquique
+Arriendo Departamento En Iquique 2 Dormitorios + 1 Pieza Peq,$560.000,3 dormitorios,1 baño,50 m² útiles,"Condominio Horizonte - Avenida 4 Sur, 2640, Departamento 1604, Iquique, Chile, Cerro Dragón, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$1.150.000,3 dormitorios,2 baños,110 m² útiles,"Arturo Prat Chacon 215, Centro De Iquique, Iquique, Tarapacá",iquique
+Arriendo Departamento En Iquique 2 Dormitorios,$480.000,2 dormitorios,1 baño,50 m² útiles,"Los Algarrobos, 4320, Cerro Dragón, Iquique, Tarapacá",iquique
+Arriendo Cómodo Departamento En Iquique 3 Dormitorios,$650.000,3 dormitorios,2 baños,70 m² útiles,"Avenida Salvador Allende Gossens, 2290, Gómez Carreño, Iquique, Tarapacá",iquique
+Arriendo Departamento Edificio Paradise,$1.100.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Santiago Polanco, 2075, Playa Brava, Iquique, Tarapacá",iquique
+Arriendo Hermoso Departamento En Edificio Urbano,$550.000,1 dormitorio,1 baño,48 m² útiles,"Arturo Fernández, 2062, Cavancha, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 3 Dorm. En Iquique,$750.000,3 dormitorios,2 baños,75 m² útiles,"Condominio Brisas Del Sur 1, Cerro Dragón, Iquique, Tarapacá",iquique
+Mirador Playa Brava Arriendo Departamento,$1.100.000,2 dormitorios,2 baños,70 m² útiles,"Manuel Plaza, 2989, Playa Brava, Iquique, Tarapacá",iquique
+"Departamento En Arriendo En El Condominio La Tirana, Iquique",$550.000,3 dormitorios,2 baños,75 m² útiles,"Calle Cinco 4300, Huayquique, Iquique, Tarapacá",iquique
 Hermoso Departamento 1d/1b/est En Arriendo (101294),$670.000,1 dormitorio,1 baño,40 m² útiles,"Avenida Proyectada 1 - 300, Huayquique, Iquique, Tarapacá",iquique
 Duplex Amoblado En Arriendo 2d/2b/est  (102165),$1.250.000,2 dormitorios,2 baños,116 m² útiles,"Avenida Héroes De La Concepción 1 - 300, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 3 Dorm. En Iquique,$750.000,3 dormitorios,2 baños,75 m² útiles,"Condominio Brisas Del Sur 1, Cerro Dragón, Iquique, Tarapacá",iquique
 Hermoso Departamento Amoblado 40m2 (100663),$650.000,1 dormitorio,1 baño,40 m² útiles,"Dieciocho De Septiembre 1 - 300, Cavancha, Iquique, Tarapacá",iquique
 Se Arrienda Departamento Costanera Huayquique (101331),$620.000,1 dormitorio,1 baño,60 m² útiles,"Avenida Cinco 1 - 300, Huayquique, Iquique, Tarapacá",iquique
-Departamento En Arriendo 50m2 Edificio Lynch (101319),$670.000,2 dormitorios,,,"Sotomayor 1 - 300, Centro De Iquique, Iquique, Tarapacá",iquique
-Arriendo Departamento Con Opcion De Compra (79320),$1.800.000,3 dormitorios,3 baños,180 m² útiles,"ARRIENDO DEPARTAMENTO $1.800.000, Playa Brava, Iquique, Tarapacá",iquique
+Departamento En Arriendo 50m2 2d/1b/est (101319),$590.000,2 dormitorios,,,"Sotomayor 1 - 300, Centro De Iquique, Iquique, Tarapacá",iquique
+Arriendo Barrio Parque  (79320),$1.800.000,3 dormitorios,3 baños,180 m² útiles,"Barrio Parque, Playa Brava. - Avenida Arturo Prat Chacón, Iquique, Chile, Playa Brava, Iquique, Tarapacá",iquique
+Departamento Céntrico 35m2 1d/1b  (103543),$600.000,1 dormitorio,1 baño,35 m² útiles,"Avenida Santiago Polanco 1 - 300, Cerro Dragón, Iquique, Tarapacá",iquique
 Arriendo Edificio Nautilus $1.100.000 (82259),$1.100.000,3 dormitorios,2 baños,100 m² útiles,"Capitán Roberto Pérez 1 - 300, Cavancha, Iquique, Tarapacá",iquique
 Super Departamento En Arriendo,$1.100.000,155 m² útiles,,,"Avenida Arturo Prat Chacon 1062, Cavancha, Iquique, Tarapacá",iquique
+"Se Arrienda Departamento  Amoblado, Edificio Costa Cavancha",$1.400.000,2 dormitorios,2 baños,100 m² útiles,"Capitán Roberto Pérez 600 - 900, Iquique, Cavancha, Iquique, Tarapacá",iquique
+Se Arrienda Departamento Amoblado Cercano A Playa Cavancha.,$580.000,1 dormitorio,1 baño,45 m² útiles,"Arturo Fernández 1800 - 2100, Iquique, Cavancha, Iquique, Tarapacá",iquique
+"Se Arrienda Amplio Departamento, En Edificio Costa Cavancha",$1.360.000,3 dormitorios,3 baños,145 m² útiles,"Capitán Roberto Pérez 600 - 900, Iquique, Cavancha, Iquique, Tarapacá",iquique
+"Se Arrienda Depto Amoblado Vista Al Mar, Altos De Huayquique",$980.000,2 dormitorios,2 baños,75 m² útiles,"Av. La Tirana 4800 - 5100, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Se Arrienda Hermoso Y Amplio Departamento Amoblado,$830.000,3 dormitorios,2 baños,90 m² útiles,"SE ARRIENDA HERMOSO Y AMPLIO DEPARTAMENTO AMOBLADO, Hospital Regional, Iquique, Tarapacá",iquique
+Arriendo Con Opción De Compra Iquique 3d2b,$750.000,3 dormitorios,2 baños,82 m² útiles,"Avenida Cinco, Huayquique, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$1.200.000,3 dormitorios,2 baños,124 m² totales,"Cond. Jardines De Huayquique, Huayquique, Iquique, Tarapacá",iquique
 Amplio Y Remodelado Departamento,$500.000,2 dormitorios,1 baño,70 m² útiles,"Gómez Carreño, Iquique, Tarapacá",iquique
-Arriendo Con Opción De Compra Iquique 3d2b,$750.000,3 dormitorios,2 baños,82 m² útiles,"Avenida Cinco, Huayquique, Iquique, Tarapacá",iquique
-"Se Arrienda Departamento  Amoblado, Edificio Costa Cavancha",$1.400.000,2 dormitorios,2 baños,100 m² útiles,"Capitán Roberto Pérez 600 - 900, Iquique, Cavancha, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 3 Dorm. En Iquique,$1.100.000,3 dormitorios,2 baños,5 m² útiles,"Cond. Edificio Península, Cavancha, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 1 Dorm. En Iquique,$590.000,1 dormitorio,1 baño,35 m² útiles,"Edif. Life, Centro De Iquique, Iquique, Tarapacá",iquique
-"Se Arrienda Depto Amoblado, Playa Cavancha, Edificio Azul I.",$580.000,1 dormitorio,1 baño,45 m² útiles,"Arturo Fernández 1800 - 2100, Iquique, Cavancha, Iquique, Tarapacá",iquique
 "Arriendo 3 D Y 2 B Iquique. Sin Aval, Sin Ipc. Un Año.",$750.000,3 dormitorios,2 baños,89 m² útiles,"Av. Cinco 4341, Huayquique, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 2 Dorm. En Iquique,$490.000,2 dormitorios,1 baño,65 m² útiles,"Cond. Edificio Pacífico, Iquique, Tarapacá",iquique
 Departamento En Arriendo En Iquique,$1.000.000,1 dormitorio,1 baño,60 m² totales,"Edificio Plaza Campanario 1, Playa Brava, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 1 Dorm. En Iquique,$700.000,1 dormitorio,1 baño,46 m² útiles,"Edificio Aquamare, Playa Brava, Iquique, Tarapacá",iquique
+Se Arrienda Depto En Edif. Vigias Del Mar.,$550.000,3 dormitorios,2 baños,75 m² útiles,"Avenida Dos Oriente 4833, Iquique, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 3 Dorm. En Iquique,$900.000,3 dormitorios,2 baños,,"Edificio Terranova, Huayquique, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 4 Dorm. En Iquique,$1.000.000,4 dormitorios,3 baños,120 m² útiles,"Edificio Agua Marina II, Playa Brava, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$1.700.000,3 dormitorios,3 baños,128 m² útiles,"Edificio Ámsterdam, Gómez Carreño, Iquique, Tarapacá",iquique
 "Se Arrienda Departamento (nuevo) Edificio Paradise, 2d,2b,1e",$800.000,2 dormitorios,2 baños,54 m² útiles,"Avenida Santiago Polanco  2075, Playa Brava, Iquique, Tarapacá",iquique
 Av. Arturo Prat #4346 - Costanera Huayquique Depto 603,$750.000,2 dormitorios,2 baños,78 m² útiles,"Av. Arturo Prat Chacón 4345, Iquique, Huayquique, Iquique, Tarapacá",iquique
+"Dpto En Arriendo, Brisas Del Sur 1, 2d, 2b, 1bod, 1est.",$620.000,2 dormitorios,2 baños,76 m² útiles,"Av. 4 Sur 2621, Cerro Dragón, Iquique, Tarapacá",iquique
 Ramirez  #1429 - Edificio Neo - Depto 1801,$650.000,3 dormitorios,2 baños,78 m² útiles,"Eleuterio Ramirez 1429, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Departamento Amoblado En Arriendo  Edificio Travesía,$1.300.000,3 dormitorios,3 baños,140 m² útiles,"Av. Arturo Prat Chacón 430, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Avenida Arturo Prat #353 - Edif. Matiz Depto 1904,$690.000,2 dormitorios,2 baños,65 m² útiles,"Av. Arturo Prat Chacón 353, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+3d 2b Ed. Panorama Playa Cavancha Insuperable Vista Al Mar,$950.000,3 dormitorios,3 baños,126 m² útiles,"Av. Arturo Prat Chacón, Iquique, Playa Brava, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 1 Dorm. En Iquique,$500.000,1 dormitorio,1 baño,,"Edificio Lynch, Centro De Iquique, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 3 Dorm. En Iquique,$1.820.000,3 dormitorios,2 baños,95 m² útiles,"Edificio PuntCavancha Torre Norte, Cavancha, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$2.000.000,3 dormitorios,3 baños,175 m² útiles,"Edificio Barrio Parque, Playa Brava, Iquique, Tarapacá",iquique
-Se Arrienda Depto En Edificio Punta Cavancha.,$900.000,3 dormitorios,2 baños,100 m² útiles,"Iquique, Cavancha, Tarapacá",iquique
-"Se Arrienda Amplio Departamento, En Edificio Costa Cavancha",$1.360.000,3 dormitorios,3 baños,145 m² útiles,"Capitán Roberto Pérez 600 - 900, Iquique, Cavancha, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 3 Dorm. En Iquique,$1.820.000,3 dormitorios,2 baños,95 m² útiles,"Edificio PuntCavancha Torre Norte, Cavancha, Iquique, Tarapacá",iquique
 Orella #2095 - Depto 504,$500.000,2 dormitorios,1 baño,52 m² útiles,"Orella 2095, Iquique, Hospital Regional, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 1 Dorm. En Iquique,$530.000,1 dormitorio,1 baño,34 m² útiles,"Edificio Life, Centro De Iquique, Iquique, Tarapacá",iquique
 Se Arrienda Amplio Departamento Edificio Punta Cavancha,$1.350.000,4 dormitorios,4 baños,180 m² útiles,"Iquique, Cavancha, Tarapacá",iquique
 Departamento En Arriendo De 3 Dorm. En Iquique,$1.100.000,3 dormitorios,2 baños,90 m² útiles,"Cond. Mar Egeo - Edificio Delos, Cavancha, Iquique, Tarapacá",iquique
-"Se Arrienda Depto Amoblado Vista Al Mar, Altos De Huayquique",$980.000,2 dormitorios,2 baños,75 m² útiles,"Av. La Tirana 4800 - 5100, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 3 Dorm. En Iquique,$1.600.000,3 dormitorios,3 baños,,"Edificio Amsterdam, Gómez Carreño, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 1 Dorm. En Iquique Año Corrido,$480.000,1 dormitorio,1 baño,50 m² útiles,"Luis Uribe 100, Centro De Iquique, Iquique, Tarapacá",iquique
 Departamento En Arriendo En Iquique,$850.000,3 dormitorios,2 baños,70 m² útiles,"Edif. Matiz Cavancha, Cavancha, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 1 Dorm. En Iquique,$540.000,1 dormitorio,1 baño,33 m² útiles,"Edificio Life, Iquique, Tarapacá",iquique
-Playa Brava Depto 3 Dormitorios,$850.000,3 dormitorios,2 baños,98 m² útiles,"Manuel Plaza 2995, Playa Brava, Iquique, Tarapacá",iquique
-Departamento En Arriendo De 3 Dorm. En Iquique,$1.100.000,3 dormitorios,3 baños,105 m² útiles,"Cond.Carrara Torre A, Huayquique, Iquique, Tarapacá",iquique
+Espectacular Vista Primera Línea Amoblado,$1.400.000,3 dormitorios,3 baños,120 m² útiles,"Edificio Arrecife SN, Cavancha, Iquique, Tarapacá",iquique
+Amplio Departamento/ Edif Terranova / Sector Sur,$700.000,2 dormitorios,2 baños,75 m² útiles,"Huayquique, Iquique, Tarapacá",iquique
+Playa Brava Depto 3 Dormitorios,$800.000,3 dormitorios,2 baños,98 m² útiles,"Manuel Plaza 2995, Playa Brava, Iquique, Tarapacá",iquique
+Arriendo Excelente Depto.  Edificio Torres De Huayquique,$750.000,3 dormitorios,2 baños,90 m² útiles,"Av. La Tirana, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
+"Arriendo Departamento Amoblado, Año Corrido, Cond T. Haenke",$780.000,3 dormitorios,2 baños,70 m² útiles,"Avenida Tadeo Haenke  2221, Playa Brava, Iquique, Tarapacá",iquique
 Departamento En Arriendo En Iquique,$550.000,1 dormitorio,1 baño,43 m² útiles,"Edificio Playa Huantajaya, Huayquique, Iquique, Tarapacá",iquique
 Se Arrienda Depto Nuevo - 1 D En Edificio Life,$530.000,1 dormitorio,1 baño,37 m² útiles,"Obispo Labbé 930, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+Departamento En Arriendo De 3 Dorm. En Iquique,$1.100.000,3 dormitorios,3 baños,105 m² útiles,"Cond.Carrara Torre A, Huayquique, Iquique, Tarapacá",iquique
 Arriendo Departamento Amoblado  Ed. Velamar,$580.000,1 dormitorio,1 baño,48 m² útiles,"Manuel Jesús Silva 2250, Iquique, Playa Brava, Iquique, Tarapacá",iquique
-3d+2b Departamento Av. Tadeo Haenke. Iquique,$720.000,3 dormitorios,2 baños,72 m² útiles,"Av. Tadeo Haenke 2221, Iquique, Playa Brava, Iquique, Tarapacá",iquique
-Diego Portales #2015 (edificio La Frontera) - Depto 403,$390.000,2 dormitorios,1 baño,45 m² útiles,"Av. Diego Portales 2015, Iquique, Gómez Carreño, Iquique, Tarapacá",iquique
+1 Dormitorio Amoblado Sector Playa Brava,$530.000,1 dormitorio,1 baño,40 m² útiles,"Pasaje Zapallar 2957, Playa Brava, Iquique, Tarapacá",iquique
+Se Arrienda Departamento En Edificio Horizonte,$450.000,3 dormitorios,1 baño,66 m² útiles,"Av. 4 Sur 2640, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Vista Al Mar 2 Habitaciones Central,$730.000,2 dormitorios,2 baños,60 m² útiles,"Anibal Pinto 1303, Centro De Iquique, Iquique, Tarapacá",iquique
 Arriendo Depto Amoblado 3d - Edificio Diego Portales,$700.000,3 dormitorios,2 baños,70 m² útiles,"Av. Diego Portales 2040, Gómez Carreño, Iquique, Tarapacá",iquique
 "Departamento Paradise Amoblado, Estilo Mariposa Iquique.",$1.100.000,2 dormitorios,2 baños,60 m² útiles,"Av. Santiago Polanco 1800 - 2100, Iquique, Playa Brava, Iquique, Tarapacá",iquique
 Se Arrienda Depto En Edif. Costa Azul.,$450.000,1 dormitorio,1 baño,47 m² útiles,"Arturo Fernández 2098, Iquique, Cavancha, Iquique, Tarapacá",iquique
+"Arriendo Dpto 1 Dormitorio, Centro De Iquique $ 425.000",$425.000,1 dormitorio,1 baño,34 m² útiles,"Sotomayor, Iquique, Hospital Regional, Iquique, Tarapacá",iquique
 Se Arrienda Depto En Edif. Cavancha Club.,$470.000,1 dormitorio,1 baño,47 m² útiles,"Juan Martínez, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-"Arriendo Dpto 1 Dormitorio, Centro De Iquique $ 460.000",$460.000,1 dormitorio,1 baño,34 m² útiles,"Sotomayor, Iquique, Hospital Regional, Iquique, Tarapacá",iquique
 1 Dormitorio Brisas Del Sur,$570.000,1 dormitorio,1 baño,45 m² útiles,"Brisas Del Sur 2 SN, Cerro Dragón, Iquique, Tarapacá",iquique
-Lindo Departamento Sector Centro Sur,UF2.000,3 dormitorios,1 baño,59 m² útiles,"Av. La Tirana 3441, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
-"Arriendo Depto. Nuevo En Edificio Paradaise, Playa Brava",$700.000,2 dormitorios,1 baño,44 m² útiles,"Av. Santiago Polanco 1800 - 2100, Iquique, Playa Brava, Iquique, Tarapacá",iquique
+Arrienda$425.000 Depto 2dormitorios No Incluye Gasto Común,$425.000,2 dormitorios,2 baños,55 m² útiles,"Av. Francisco Bilbao 3900 - 4200, Iquique, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado Con Increíble Vista En Sector,$850.000,2 dormitorios,2 baños,95 m² útiles,"Pje. Cam. A La Playa 1800 - 2100, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Condominio Portal Del Pacífico,$1.300.000,4 dormitorios,4 baños,120 m² útiles,"Av. Ramon Perez Opazo, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Arriendo Cómodo Departamento En Edificio Diego Portales,$560.000,3 dormitorios,2 baños,75 m² útiles,"Av. Diego Portales 1800 - 2100, Iquique, Gómez Carreño, Iquique, Tarapacá",iquique
-Se Arrienda Depto En Edif. Vigias Del Mar.,$550.000,3 dormitorios,2 baños,75 m² útiles,"Avenida Dos Oriente 4833, Iquique, Iquique, Tarapacá",iquique
-Edificio Urbano Oriente,$680.000,2 dormitorios,2 baños,70 m² útiles,"Arturo Fernández, Iquique, Iquique, Tarapacá",iquique
 Se Arrienda Depto En Cond. Altos De Huayquique.,$580.000,2 dormitorios,2 baños,58 m² útiles,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Condominio Oceánica,$1.150.000,3 dormitorios,2 baños,89 m² útiles,"Padre Hurtado 2363, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Arriendo Departamento En Sector Sur Excelente Ubicación,$700.000,3 dormitorios,2 baños,80 m² útiles,"Av. Francisco Bilbao 3421, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Arriendo Depto. En Conjunto Habitacional Altos De Mar,$620.000,2 dormitorios,1 baño,50 m² útiles,"Av. La Tirana 3900 - 4200, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Se Arrienda Depto Amoblado En Edif. Matiz.,$480.000,1 dormitorio,1 baño,50 m² útiles,"Av. Arturo Prat Chacón 353, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Arriendo Depto. Amoblado A Pocos Pasos De Playa Cavancha,$580.000,1 dormitorio,1 baño,40 m² útiles,"Arturo Fernández 1800 - 2100, Iquique, Cavancha, Iquique, Tarapacá",iquique
 Se Arrienda Depto En Edif Plaza Campanario.,$550.000,1 dormitorio,1 baño,48 m² útiles,"Pedro Gamboni 2147, Iquique, Playa Brava, Iquique, Tarapacá",iquique
+Edificio Bellaterra,$950.000,2 dormitorios,2 baños,90 m² útiles,"Av. Francisco Bilbao, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Edificio Life,$570.000,1 dormitorio,1 baño,37 m² útiles,"Obispo Labbé, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Se Arrienda Depto En Cond. Mares Del Sur.,$950.000,3 dormitorios,2 baños,120 m² útiles,"Av. Arturo Prat Chacón 3524, Iquique, Huayquique, Iquique, Tarapacá",iquique
-Edificio Life,$750.000,2 dormitorios,2 baños,65 m² útiles,"Obispo Labbé, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+"Departamento Amoblado Anual Edificio Rotterdam, Iquique",$750.000,1 dormitorio,1 baño,53 m² útiles,"Av. Salvador Allende Gossens 2250, Iquique, Tarapacá, Chile, Huayquique, Iquique, Tarapacá",iquique
+Edificio Life,$570.000,1 dormitorio,1 baño,37 m² útiles,"Obispo Labbé, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+"Arriendo Departamento Edificio Rotterdam, Iquique",$830.000,2 dormitorios,2 baños,67 m² útiles,"Pdte Salvador Allende Gossens 2250, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Edificio Matiz Cavancha,$870.000,3 dormitorios,2 baños,78 m² útiles,"Dieciocho De Septiembre 1961, Iquique, Cavancha, Iquique, Tarapacá",iquique
 Edificio Amsterdam,$750.000,2 dormitorios,2 baños,65 m² útiles,"Av. Salvador Allende Gossens 2250, Iquique, Gómez Carreño, Iquique, Tarapacá",iquique
-Se Arrienda Depto Amoblado En Edif. Lynch,$620.000,2 dormitorios,1 baño,48 m² útiles,"Sotomayor 415, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Departamento En Campanario,$700.000,3 dormitorios,2 baños,73 m² útiles,"Playa Brava 2973, 1.1109e+06 - 1.1112e+06 Iquique, Tarapacá, Chile, Playa Brava, Iquique, Tarapacá",iquique
-Condominio 4 Reinas,$600.000,3 dormitorios,2 baños,65 m² útiles,"Av. Salvador Allende Gossens, Iquique, Gómez Carreño, Iquique, Tarapacá",iquique
 Arriendo Con Muebles Depto Torre Capital 2 Habitaciones,$680.000,2 dormitorios,2 baños,82 m² útiles,"Luis Uribe 100, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Arriendo Depto Amoblado 3d - Condominio Altos De Huayquique,$950.000,3 dormitorios,2 baños,,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Edificio Paradise,$650.000,1 dormitorio,1 baño,32 m² útiles,"Iquique, Playa Brava, Tarapacá",iquique
+Se Arrienda Depto Amoblado En Edif. Lynch,$620.000,2 dormitorios,1 baño,48 m² útiles,"Sotomayor 415, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Condominio Portal Del Pacífico,$1.150.000,3 dormitorios,2 baños,101 m² útiles,"Av. Ramon Perez Opazo, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Vigias Del Mar 1,$590.000,3 dormitorios,1 baño,56 m² útiles,"Avenida Dos Oriente 4833, Iquique, Iquique, Tarapacá",iquique
+Condominio Panorámico,$560.000,1 dormitorio,1 baño,36 m² útiles,"Manuel Castro Ramos 2415, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Edificio Altus,$800.000,3 dormitorios,2 baños,70 m² útiles,"Obispo Labbé, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Condominio Tadeo Haenke,$570.000,1 dormitorio,1 baño,45 m² útiles,"Iquique, Gómez Carreño, Tarapacá",iquique
 Duplex Edificio Urbano Centro,$580.000,1 dormitorio,1 baño,40 m² útiles,"Anibal Pinto 787, Centro De Iquique, Iquique, Tarapacá",iquique
 Departamento En Arriendo De 1 Dorm. En Iquique,$430.000,1 dormitorio,1 baño,35 m² útiles,"Edificio Costa Azul I, Cavancha, Iquique, Tarapacá",iquique
-Edificio Reconquista,$570.000,1 dormitorio,1 baño,37 m² útiles,"Bernardo O'Higgins 195, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
+Villa Puchuldiza,$570.000,1 dormitorio,1 baño,53 m² útiles,"Rubén Donoso, Iquique, Playa Brava, Iquique, Tarapacá",iquique
+Departamento Amoblado En Condominio Torres De Huayquique,$750.000,2 dormitorios,2 baños,70 m² útiles,"Av. La Tirana 5445, Iquique, Bajo Molle, Iquique, Tarapacá",iquique
 Departamento Amoblado Edificio Huantajaya,$1.000.000,3 dormitorios,2 baños,94 m² útiles,"Pje. Cam. A La Playa 2040, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Departamento Condominio Jardines De Huayquique,$800.000,2 dormitorios,2 baños,65 m² útiles,"Av. Proyectada 2120, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Departamento Amoblado Condominio Jardines De Huayquique,$700.000,1 dormitorio,1 baño,48 m² útiles,"Av. Proyectada 2120, Iquique, Huayquique, Iquique, Tarapacá",iquique
@@ -148,104 +158,140 @@ Departamento En Arriendo De 2 Dorm. En Iquique,$600.000,2 dormitorios,1 baño,56
 Departamento En Arriendo De 3 Dorm. En Iquique,$1.500.000,3 dormitorios,3 baños,145 m² útiles,"PENÍNSULA DE CAVANCHA, Cavancha, Iquique, Tarapacá",iquique
 Amplio Departamento En Arriendo Primera Línea,$1.350.000,4 dormitorios,3 baños,140 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
 Departamento Amoblado En Matiz Cavancha,$650.000,1 dormitorio,1 baño,45 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado,$750.000,2 dormitorios,2 baños,57 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
-Departamento En Arriendo Sector Sur De Iquique,$1.250.000,4 dormitorios,3 baños,,"Huayquique, Iquique, Tarapacá",iquique
 Arriendo Departamento Sector Cavancha Iquique,$1.700.000,3 dormitorios,4 baños,176 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
 Arriendo Con Promesa Departamento  Barrio Parque,$1.800.000,3 dormitorios,3 baños,176 m² útiles,"Playa Brava, Iquique, Tarapacá",iquique
 Arriendo Departamento Sector Península Iquique,UF23,2 dormitorios,2 baños,90 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado,$750.000,2 dormitorios,2 baños,57 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
 Departamento En Arriendo,$1.200.000,3 dormitorios,2 baños,130 m² útiles,"Huayquique, Iquique, Tarapacá",iquique
 Arriendo Departamento Amoblado Sector Sur,$990.000,3 dormitorios,2 baños,97 m² útiles,"Cerro Dragón, Iquique, Tarapacá",iquique
 Arriendo Departamento 2 Dormitorios Sector Sur Iquique,$800.000,2 dormitorios,2 baños,73 m² útiles,"Cerro Dragón, Iquique, Tarapacá",iquique
 Se Arrienda Departamento Amoblado,$650.000,1 dormitorio,1 baño,36 m² útiles,"Playa Brava, Iquique, Tarapacá",iquique
 Se Arrienda Amoblado Central,$750.000,2 dormitorios,2 baños,60 m² útiles,"Centro De Iquique, Iquique, Tarapacá",iquique
 Arriendo Departamento Iquique Sector Península,$1.300.000,3 dormitorios,2 baños,110 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado Iquique,$1.100.000,3 dormitorios,2 baños,89 m² útiles,"Centro De Iquique, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado Sector Sur,$650.000,1 baño,53 m² útiles,,"Cerro Dragón, Iquique, Tarapacá",iquique
-Arriendo Departamento Amoblado Sector Península,$1.700.000,3 dormitorios,3 baños,130 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
 Departamento En Punta Cavancha,$750.000,1 dormitorio,1 baño,45 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
-Departamento Céntrico Con Vista Al Mar.,$490.000,1 dormitorio,1 baño,35 m² útiles,"Bernardo O'Higgins 195, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-Departamento Diario / Mes Amoblado Con Hermosa Vista Al Mar,$990.000,2 dormitorios,2 baños,90 m² útiles,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado Sector Sur,$650.000,1 baño,53 m² útiles,,"Cerro Dragón, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado Iquique,$1.100.000,3 dormitorios,2 baños,89 m² útiles,"Centro De Iquique, Iquique, Tarapacá",iquique
+Arriendo Departamento Amoblado Sector Península,$1.700.000,3 dormitorios,3 baños,130 m² útiles,"Cavancha, Iquique, Tarapacá",iquique
+Paradise - Arriendo,$750.000,2 dormitorios,2 baños,66 m² útiles,"Av. Santiago Polanco 2075, Huayquique, Iquique, Tarapacá",iquique
+Arriendo Departamento Edificio Mirador Playa Brava 1,$1.200.000,3 dormitorios,2 baños,85 m² útiles,"Manuel Pl. 2989, Iquique, Playa Brava, Iquique, Tarapacá",iquique
+Arriendo Departamento Edificio Altos De Huayquique,$900.000,2 dormitorios,2 baños,85 m² útiles,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Arriendo De Departamento Edificio Tres Mares,$800.000,3 dormitorios,2 baños,85 m² útiles,"Teresa Wilms Mont 2230, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Departamento Céntrico Con Vista Al Mar.,$480.000,1 dormitorio,1 baño,35 m² útiles,"Bernardo O'Higgins 195, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Bello Depto En Condominio Altos De Huayquique; 1d/1b + Est.,$600.000,1 dormitorio,1 baño,36 m² útiles,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Dpto Frente Al Mar. Edif. Velamar,$660.000,1 dormitorio,1 baño,42 m² útiles,"Manuel Jesús Silva 2249, Iquique, Playa Brava, Iquique, Tarapacá",iquique
 "Arriendo Depto 2d 1b - C. Habitacional Altos Del Mar, Iqq",$420.000,2 dormitorios,1 baño,45 m² útiles,"Av. La Tirana 4058, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Departamento En Genaro Gallo/thompson,$620.000,3 dormitorios,2 baños,83 m² útiles,"Anturo Fernandez SN, Hospital Regional, Iquique, Tarapacá",iquique
+"Se Arrienda Departamento Sector Sur, Iquique.",$450.000,3 dormitorios,1 baño,58 m² útiles,"Los Algarrobos 4335, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Departamento 3 Dorm Iquique Incluye Gc,$785.000,3 dormitorios,2 baños,81 m² útiles,"Av. Proyectada 2620, Iquique, Huayquique, Iquique, Tarapacá",iquique
 Arriendo Departamento Brisas Del Sur 1,$850.000,3 dormitorios,2 baños,100 m² útiles,"Avenida Proyectada SN, Cerro Dragón, Iquique, Tarapacá",iquique
-Arriendo X Año Depto Amoblado 3 Dormitorios 2 Baños Iquique,$850.000,3 dormitorios,2 baños,85 m² útiles,"Juan Martínez 2002, Cavancha, Iquique, Tarapacá",iquique
-Arriendo Departamento Full Amoblado,$690.000,2 dormitorios,2 baños,75 m² útiles,"Condominio Tres Mares-Edifico Báltico SN, Huayquique, Iquique, Tarapacá",iquique
 Departamento Edificio Altos De Huayquique,$620.000,1 dormitorio,1 baño,45 m² útiles,"Av. La Tirana 4865, Iquique, Huayquique, Iquique, Tarapacá",iquique
-Departamento 3d 2b 1e,$1.500.000,3 dormitorios,2 baños,104 m² útiles,"Av Arturo Prat 1670, Cavancha, Iquique, Tarapacá",iquique
 Arriendo Apartamento Estudio Amoblado,$500.000,1 dormitorio,1 baño,35 m² útiles,"Céspedes Y González 969, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
 Rebajado Departamento 1 Dormitorio A 2 Cuadras De Cavancha,$450.000,1 dormitorio,1 baño,29 m² útiles,"Tomás Bonilla B. 1035, Iquique, Cavancha, Iquique, Tarapacá",iquique
 Arriendo Apartamento Estudio Amoblado,$500.000,1 dormitorio,1 baño,35 m² útiles,"Céspedes Y González 969, Iquique, Centro De Iquique, Iquique, Tarapacá",iquique
-"Departamento 5to Piso Con Vista Al Mar, Cond. Pablo Neruda",$450.000,3 dormitorios,1 baño,57 m² útiles,"Av. La Tirana 3441, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
 Arriendo Departamento Nuevo Edif Paradise Iquique,$800.000,2 dormitorios,2 baños,50 m² útiles,"Isla San Felix SN, Cerro Dragón, Iquique, Tarapacá",iquique
-"Se Arrienda Departamento Sector Sur, Iquique.",$450.000,3 dormitorios,1 baño,58 m² útiles,"Los Algarrobos 4335, Iquique, Cerro Dragón, Iquique, Tarapacá",iquique
-Condominio Carrara,$1.400.000,5 dormitorios,3 baños,160 m² útiles,"Av. Arturo Prat Chacón 3783, Iquique, Huayquique, Iquique, Tarapacá",iquique
+Departamento Amoblado,$800.000,2 dormitorios,2 baños,5.283 m² útiles,"Obispo Labbe 830, Centro De Iquique, Iquique, Tarapacá",iquique
+Arriendo Departamento En Avda. Grecia,$1.100.000,2 dormitorios,2 baños,90 m² útiles,"Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 "Dpto Centro Norte. Vista Al Mar, Sin Comision Y Gc Incluido",$590.000,1 dormitorio,1 baño,38 m² útiles,"Av. Edmundo Pérez Zujovic 5400 - 5700, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 Muy Buen Departamento Sector Av. Brasil Hermosa Vista Al Mar,$730.000,3 dormitorios,2 baños,105 m² útiles,"Av. Grecia 1532, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Depto. Arriendo Amoblado Costanera Norte,$750.000,2 dormitorios,2 baños,75 m² útiles,"COSTANERA NORTE, La Chimba, Antofagasta",antofagasta
 Depto. Arriendo Llacolen,$900.000,3 dormitorios,2 baños,86 m² útiles,"LLACOLEN COSTANERA SUR, Jardines Del Sur, Antofagasta",antofagasta
-Arriendo Depto. Nuevo Llacolen,$950.000,2 dormitorios,2 baños,50 m² útiles,"ARRIENDO DEPTO. NUEVO LLACOLEN, Jardines Del Sur, Antofagasta",antofagasta
+Depto. Arriendo Amoblado Costanera Norte,$750.000,2 dormitorios,2 baños,75 m² útiles,"COSTANERA NORTE, La Chimba, Antofagasta",antofagasta
 Depto. Amoblado Av. Argentiina,$1.050.000,3 dormitorios,3 baños,125 m² útiles,"DEPTO. AMOBLADO AV. ARGENTINA, Centro De Antofagasta, Antofagasta",antofagasta
 Arriendo Depto. Valle Del Mar,$900.000,2 dormitorios,2 baños,83 m² útiles,"DEPTO. ARRIENDO VALLE DEL MAR, Jardines Del Sur, Antofagasta",antofagasta
+Arriendo Depto. Brisas Costa Laguna,$890.000,3 dormitorios,2 baños,85 m² útiles,"BRISAS DE COSTA LAGUNA, Costa Laguna, Antofagasta",antofagasta
 Departamento Con Espectacular Vista Al Mar,$820.000,3 dormitorios,2 baños,90 m² útiles,"DEPTO ARRIENDO 3 DORM. LIDER EXPRESS, Hospital Regional, Antofagasta",antofagasta
 Depto. Arriendo Av. Grecia,$1.100.000,2 dormitorios,2 baños,95 m² útiles,"DEPTO. ARRIENDO AV. GRECIA, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 "Depto Amoblado, Cerro Paranal",$1.500.000,3 dormitorios,2 baños,90 m² útiles,"DEPTO AMOBLADO, CERRO PARANAL, Coviefi, Antofagasta",antofagasta
 Depto 2 Dorm. Frente Al Estadio Regional,$850.000,2 dormitorios,2 baños,58 m² útiles,"DEPTO 2 DORM. CERCA DE AVDA ANGAMOS, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 "Depto Arriendo, Frente A Balneario",$2.200.000,4 dormitorios,4 baños,130 m² útiles,"DEPTO ARRIENDO , FRENTE A BALNEARIO, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
-Mall Plaza Norte,$600.000,1 dormitorio,1 baño,37 m² útiles,"MALL PLAZA NORTE, Hospital Regional, Antofagasta",antofagasta
 Depto. Amoblado En Arriendo,$1.000.000,3 dormitorios,2 baños,70 m² útiles,"DEPTO. AMOBLADO EN ARRIENDO, Centro De Antofagasta, Antofagasta",antofagasta
+Mall Plaza Norte,$600.000,1 dormitorio,1 baño,37 m² útiles,"MALL PLAZA NORTE, Hospital Regional, Antofagasta",antofagasta
 "Depto Amoblado, Mall Plaza Antofagasta",$1.300.000,2 dormitorios,2 baños,65 m² útiles,"DEPTO AMOBLADO, MALL PLAZA ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
 "Depto. Semi Amoblado, Sector Norte",$950.000,3 dormitorios,2 baños,75 m² útiles,"DEPTO. SEMI AMOBLADO, SECTOR NORTE, Parque Juan López, Antofagasta",antofagasta
-Departamento En Arriendo En Antofagasta Parque Brasil 1 Dorm,$650.000,1 dormitorio,1 baño,40 m² útiles,"Parque Brasil, Parque Brasil, Antofagasta",antofagasta
-Arriendo Departamento Ideal  Oficina. N° 406 Latorre 2580,$600.000,3 dormitorios,1 baño,72 m² útiles,"Almte. Juan José Latorre 2580, Departamento 406, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Departamento En Arriendo De 2 Dorm. Sector Sur Antofagasta,$950.000,2 dormitorios,2 baños,73 m² útiles,"Angamos - Jumbo, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Departamento En Arriendo De 1 Dorm Cerro Paranal Antofagasta,$630.000,1 dormitorio,1 baño,40 m² útiles,"Cerro Paranal, Coviefi, Antofagasta",antofagasta
-Arriendo Depto. Brisas Costa Laguna,$890.000,3 dormitorios,2 baños,85 m² útiles,"BRISAS DE COSTA LAGUNA, Costa Laguna, Antofagasta",antofagasta
+Arriendo Depto Con Vista Al Mar De 4 D 3b . En Antofagasta,$900.000,4 dormitorios,3 baños,140 m² útiles,"Estadio Regional Calvo Bascuñañ, Playa Blanca, Antofagasta",antofagasta
+Arriendo Dpto. Nuevo Sector Jaime Guzmán,$850.000,3 dormitorios,2 baños,80 m² útiles,Antofagasta,antofagasta
+Céntríco Departamento Con Excelente Conectividad,$700.000,3 dormitorios,2 baños,76 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
+Arriendo Moderno Departamento Vista Costa,$1.300.000,3 dormitorios,2 baños,99 m² útiles,"Alcalde Germán Miric , Antofagasta, Departamento, Coviefi, Antofagasta",antofagasta
+Arriendo Departamento Costa Laguna,$1.400.000,3 dormitorios,2 baños,100 m² útiles,"Gladys Marín N° , Antofagasta, Chile, Departamento, Costa Laguna, Antofagasta",antofagasta
+"Departamento Amoblado,  Costa Laguna",$1.700.000,3 dormitorios,2 baños,111 m² útiles,"Costa Laguna, Antofagasta",antofagasta
+Arriendo Departamento En Cerro Paranal,$1.500.000,3 dormitorios,2 baños,110 m² útiles,"Coviefi, Antofagasta",antofagasta
+Moderno Y Nuevo Departamento Sector Jaime Guzmán,$800.000,2 dormitorios,2 baños,43 m² útiles,Antofagasta,antofagasta
+Arriendo Departamento Equipado Puerto Nuevo,$750.000,1 dormitorio,1 baño,28 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
+Arriendo Departamento Estilo Mariposa Frente Ucn,UF20,2 dormitorios,2 baños,68 m² útiles,"Playa Blanca, Antofagasta",antofagasta
+Arriendo Departamento Equipado Sector Brasil,$1.200.000,2 dormitorios,2 baños,68 m² útiles,"Parque Brasil, Antofagasta",antofagasta
+Arriendo Dpto. 2 Dormitorios En Torre Codelco,$720.000,2 dormitorios,2 baños,90 m² útiles,"Playa Paraíso, Antofagasta",antofagasta
+Lindo Departamento Frente Parque Juan López,$750.000,3 dormitorios,2 baños,83 m² útiles,Antofagasta,antofagasta
 Arriendo Hermoso Depto. Vista Al Mar Av. Brasil Antofagasta,UF20,1 dormitorio,2 baños,74 m² útiles,"Antonio Poupin 1071, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Arriendo Hermoso Departamento Centro Antofagasta,UF18,3 dormitorios,2 baños,70 m² útiles,"Uribe 391, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Arriendo Depto Con Vista Al Mar De 4 D 3b . En Antofagasta,$900.000,4 dormitorios,3 baños,140 m² útiles,"Estadio Regional Calvo Bascuñañ, Playa Blanca, Antofagasta",antofagasta
-Arriendo Departamento 3 Habitaciones En El Centro ...,$940.000,3 dormitorios,2 baños,86 m² útiles,"Antofagasta, Centro De Antofagasta",antofagasta
-Se Arrienda Departamento Condominio Caparrosa Iii,$500.000,3 dormitorios,1 baño,75 m² útiles,"Limonita 10590, Antofagasta, Parque Juan López, Antofagasta",antofagasta
+A Estrenar En Llacolén 2 Dorm/ 2 Bañ / Bod/ Estacionamiento/,$780.000,2 dormitorios,2 baños,68 m² útiles,"Av. Jaime Guzmán Errázuriz 4080, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
 Acogedor Departamento 3d En Parque Ingles,$900.000,3 dormitorios,2 baños,68 m² útiles,"Antofagasta, Playa Blanca",antofagasta
 Arriendo Departamento 3 Dormitorios En Cerro Paran...,UF31,3 dormitorios,2 baños,87 m² útiles,"Antofagasta, Coviefi",antofagasta
-Departamento En Arriendo Av. Pedro Aguirre Cerda,$760.000,3 dormitorios,2 baños,68 m² útiles,"Antofagasta, Trocadero",antofagasta
 Arriendo Departamento Nuevo Amoblado En Cerro Para...,$800.000,1 dormitorio,1 baño,35 m² útiles,"Antofagasta, Coviefi",antofagasta
 Moderno Y Cómodo Departamento Con Vista Al Mar.,UF50,3 dormitorios,2 baños,139 m² útiles,"Antofagasta, Coviefi",antofagasta
 Arriendo Dpto. Amoblado 3d 2b Cerro Paranal,$1.500.000,3 dormitorios,2 baños,94 m² útiles,"Antofagasta, Coviefi",antofagasta
 "Hermoso Departamento 3 Dormitorios, Edificio Atlán...",$1.000.000,3 dormitorios,2 baños,110 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
-"Departamento Amoblado 3 Dormitorios, Sector Sur",$1.300.000,3 dormitorios,2 baños,90 m² útiles,"Antofagasta, Coviefi",antofagasta
 Arriendo Departamento Nuevo 3 Dormitorios Con Vist...,$900.000,3 dormitorios,2 baños,74 m² útiles,Antofagasta,antofagasta
+"Departamento Amoblado 3 Dormitorios, Sector Sur",$1.300.000,3 dormitorios,2 baños,90 m² útiles,"Antofagasta, Coviefi",antofagasta
 Arriendo Departamento Frente A Espacio Urbano Y Mu...,$1.200.000,3 dormitorios,2 baños,70 m² útiles,"Antofagasta, Playa Paraíso",antofagasta
-Se Arrienda Departamento En Llacolen,$820.000,2 dormitorios,2 baños,71 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
+Arriendo Departamento 3 Habitaciones En El Centro ...,$940.000,3 dormitorios,2 baños,86 m² útiles,"Antofagasta, Centro De Antofagasta",antofagasta
 Arriendo Departamento 3 Dormitorios Amoblado,$950.000,3 dormitorios,2 baños,72 m² útiles,"Antofagasta, Centro De Antofagasta",antofagasta
 Arriendo Departamento De 3 Dormitorios En Jardines...,$1.400.000,3 dormitorios,3 baños,128 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
 Departamento 2 Dormitorios Sector Líder Express Co...,$620.000,2 dormitorios,1 baño,42 m² útiles,"Antofagasta, Hospital Regional",antofagasta
+"Departamento Amoblado En Salvador Reyes, Antofagas...",$900.000,2 dormitorios,2 baños,60 m² útiles,"Antofagasta, Parque Brasil",antofagasta
 En Arriendo Espectacular Departamento Frente Al Ma...,$950.000,4 dormitorios,3 baños,102 m² útiles,"Antofagasta, Estadio Calvo Y Bascuñán",antofagasta
 Espectacular Vista! Departamento 1d 1b,$660.000,1 dormitorio,1 baño,44 m² útiles,Antofagasta,antofagasta
 Cómodo Departamento Amoblado En Sector Sur,$1.500.000,4 dormitorios,3 baños,107 m² útiles,Antofagasta,antofagasta
 Amplio Departamento De 1 Dormitorio Con Gastos Com...,$610.000,1 dormitorio,1 baño,46 m² útiles,"Antofagasta, Estadio Calvo Y Bascuñán",antofagasta
 Arriendo Departamento 4 Dormitorios Linda Vista,$1.400.000,4 dormitorios,3 baños,122 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
 Arriendo Departamento 3 Dormitorios Con Hermosa Vi...,$1.300.000,3 dormitorios,3 baños,130 m² útiles,Antofagasta,antofagasta
-Se Arrienda  Departamento 1 Dormitorio Pleno Centr...,$500.000,1 dormitorio,1 baño,35 m² útiles,"Antofagasta, Centro De Antofagasta",antofagasta
+Se Arrienda Departamento En Jardines Del Sur,$750.000,2 dormitorios,2 baños,70 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
 Arriendo Departamento Duplex  Lidia Moreno,$1.200.000,4 dormitorios,3 baños,90 m² útiles,"Antofagasta, Parque Juan López",antofagasta
 Departamento De 3 Dormitorios Sector Llacolén,$1.150.000,3 dormitorios,2 baños,90 m² útiles,"Huascar, Jardines Del Sur, Antofagasta",antofagasta
-"Departamento Amoblado En Salvador Reyes, Antofagas...",$900.000,2 dormitorios,2 baños,60 m² útiles,"Antofagasta, Parque Brasil",antofagasta
-Se Arrienda Departamento En Jardines Del Sur,$750.000,2 dormitorios,2 baños,70 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
-A Estrenar En Llacolén 2 Dorm/ 2 Bañ / Bod/ Estacionamiento/,$780.000,2 dormitorios,2 baños,68 m² útiles,"Av. Jaime Guzmán Errázuriz 4080, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-Departamento 2 Habitaciones 2 Baños Llacolén Nuevo,$740.000,2 dormitorios,2 baños,62 m² útiles,"Av. Jaime Guzmán Errázuriz 4080, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-Departamento En Arriendo 3d/2b/1e/1b Cerro Paranal 271,$900.000,3 dormitorios,2 baños,100 m² útiles,"Av. Cerro Paranal 271, Antofagasta, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado Edificio Terramar Ii,$750.000,3 dormitorios,2 baños,67 m² útiles,"El Yodo 8265, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
+"Hermoso Depto. Con Vista Al Mar, Sector Sur",$1.100.000,3 dormitorios,2 baños,104 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
+"Hermoso Departamento Con Vista Al Mar, Sector Sur.",$1.100.000,3 dormitorios,2 baños,110 m² útiles,Antofagasta,antofagasta
+"Departamento Nuevo 2d, Sector Norte",$690.000,2 dormitorios,1 baño,53 m² útiles,"Trocadero, Antofagasta",antofagasta
+Hermoso Departamento Amoblado Sector Sur.,$1.350.000,3 dormitorios,2 baños,87 m² útiles,"Coviefi, Antofagasta",antofagasta
+Hermoso Departamento Amoblado Para Ejecutivos Y Empresas,$1.200.000,2 dormitorios,2 baños,83 m² útiles,"Coviefi, Antofagasta",antofagasta
+"Departamento Con Vista Al Mar, Sector Sur",$850.000,3 dormitorios,2 baños,89 m² útiles,Antofagasta,antofagasta
+"Departamento Amoblado Con Vista Al Mar, Sector Sur",$950.000,2 dormitorios,2 baños,76 m² útiles,"Coviefi, Antofagasta",antofagasta
+"Departamento Con Vista Al Mar, Sector Sur",$800.000,2 dormitorios,2 baños,55 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
+Departamento Amoblado Con Vista Al Mar,$900.000,3 dormitorios,2 baños,75 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
+"Departamento  3 Dormitorios, Sector Norte",$800.000,3 dormitorios,2 baños,76 m² útiles,"Nicolás Tirado, Antofagasta",antofagasta
+"Duplex Full Amoblado, Sector Sur",$930.000,2 dormitorios,2 baños,85 m² útiles,"Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+"Departamento Full Amoblado Con Vista Al Mar, Sector Sur",$1.100.000,2 dormitorios,2 baños,54 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
+"Departamento Full Amoblado Con Vista Al Mar, Sector Sur",$900.000,3 dormitorios,2 baños,70 m² útiles,"Playa Blanca, Antofagasta",antofagasta
+Departamento Sector Norte,$650.000,2 dormitorios,1 baño,46 m² útiles,"Hospital Regional, Antofagasta",antofagasta
+Se Arrienda Departamento Condominio Caparrosa Iii,$500.000,3 dormitorios,1 baño,75 m² útiles,"Limonita 10590, Antofagasta, Parque Juan López, Antofagasta",antofagasta
 Depto. Amoblado En Excelente Ubicación Y Vista Panorámica,$1.450.000,3 dormitorios,3 baños,150 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
 Departamento Sector Av. Brasil. Hermosa Vista Al Mar,$730.000,3 dormitorios,2 baños,105 m² útiles,"Av. Grecia 1532, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Depto. En Arriendo 1dorm. 1b. &#43; Est. &#43; Bod. En Antof,$650.000,1 dormitorio,1 baño,36 m² útiles,"Calle Ascotán S, La Chimba, Antofagasta",antofagasta
+Hermoso  Depto Amoblado Full  1 Dormitorio Norte,$650.000,1 dormitorio,1 baño,43 m² útiles,"LIDIA MORENO, 1 - 300, Parque Juan López, Antofagasta",antofagasta
+Departamento  Condominio Faro Norte Sector Norte,$500.000,1 dormitorio,1 baño,54 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
+Departamento Condominio Parque Costanera 2,$700.000,3 dormitorios,2 baños,90 m² útiles,"Calle El Oro, 8100 - 8400, Nicolás Tirado, Antofagasta",antofagasta
+Arriendo  Departamento Sector Nicolas Tirado,$700.000,3 dormitorios,2 baños,78 m² útiles,"El Yodo, 8100 - 8400, Nicolás Tirado, Antofagasta",antofagasta
+Arriendo Departamento 4 Dormitorios,$1.400.000,4 dormitorios,3 baños,113 m² útiles,"Avenida Jaime Guzman, 4500 - 4800, Antofagasta",antofagasta
+Departamento 2 Dormitorios Central,$620.000,2 dormitorios,2 baños,43 m² útiles,"Iquique, 3900 - 4200, Playa Paraíso, Antofagasta",antofagasta
+"Arriendo Bahia Blanca, Sector Norte",$1.000.000,3 dormitorios,2 baños,87 m² útiles,"Av. Edmundo Pérez Zujovic #11 - 300890, 0, La Chimba, Antofagasta",antofagasta
+Departamento En Arriendo Sector Norte,$680.000,2 dormitorios,2 baños,60 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
+Departamento Amoblado En Arriendo Sector Norte,$780.000,2 dormitorios,2 baños,60 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
+"Arriendo Depto Villa Grandon, Antofagasta",$480.000,3 dormitorios,1 baño,64 m² útiles,"Bandera #7398, 1 - 300, Nicolás Tirado, Antofagasta",antofagasta
+Departamento Amoblado 1 Dor En Parque Inglés,$600.000,1 dormitorio,1 baño,47 m² útiles,"Salar Grande 121, 1 - 300, Playa Blanca, Antofagasta",antofagasta
+Departamento  Costa Laguna Amoblado,$620.000,2 dormitorios,2 baños,45 m² útiles,"Gladys Marin, 600 - 900, Costa Laguna, Antofagasta",antofagasta
+Departamento Interior En Sector Brasil,$700.000,3 dormitorios,1 baño,60 m² útiles,"Copiapo, 865, Parque Brasil, Antofagasta",antofagasta
+¡tu Nuevo Hogar En Antofagasta Te Espera!,$850.000,3 dormitorios,1 baño,68 m² útiles,"Galleguillos Lorca 1553, 1 - 300, Parque Brasil, Antofagasta",antofagasta
+"Departamento Nuevo 1d 1b Bodega, Estacionamiento",$580.000,1 dormitorio,1 baño,50 m² útiles,"Calle Maipu, 300 - 600, Centro De Antofagasta, Antofagasta",antofagasta
+"Vive Modernamente En Edificio Icono, Antofagasta",$790.000,1 dormitorio,1 baño,48 m² útiles,"Uribe 31 - 3005, 0, Centro De Antofagasta, Antofagasta",antofagasta
+Departamento Amoblado Cerro Paranal,$1.000.000,2 dormitorios,2 baños,67 m² útiles,"Coviefi, Antofagasta",antofagasta
 Kimpao: Arrienda Departamento En Llacolen Amoblado,$1.400.000,3 dormitorios,2 baños,100 m² útiles,"LAvenida Jaime Gusman 04824 SN, Jardines Del Sur, Antofagasta",antofagasta
-Departamento 1 Dormitorio Sin Amoblar,$580.000,1 dormitorio,1 baño,42 m² útiles,"Avenida Argentina, 1500 - 1800, Parque Brasil, Antofagasta",antofagasta
+Arriendo  987005522,$750.000,2 dormitorios,2 baños,60 m² útiles,"Balmaceda  1414, Antofagasta, Calama SN, Hospital Regional, Antofagasta",antofagasta
+Se Arrienda Hermoso Departamento Con Vista Al Mar En El S...,$1.200.000,4 dormitorios,3 baños,118 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
+Se Arrienda Hermoso Departamento 2 D Y 2 B Sector Sur Ant...,$950.000,2 dormitorios,2 baños,90 m² útiles,"Coviefi, Antofagasta",antofagasta
 Se Arrienda Hermoso Y Amplio Departamento Con Vista Al Mar,$580.000,1 dormitorio,1 baño,40 m² útiles,"Sargento Aldea 311, Hospital Regional, Antofagasta",antofagasta
 Vendo Depto. Sector Sur  Con Vista Al Mar,UF5.950,3 dormitorios,2 baños,106 m² útiles,"Av. Cerro Paranal, Coviefi, Antofagasta",antofagasta
 En Arriendo Hermoso Departamento Vista Al Al Mar Amoblado...,$1.200.000,3 dormitorios,2 baños,90 m² útiles,"Costa Laguna, Antofagasta",antofagasta
 Espectacular Vista Al Mar Departamento Playa Llacolén S. Sur,$700.000,1 dormitorio,1 baño,43 m² útiles,"Av. Jaime Guzmán Errázuriz 4200, Antofagasta, Antofagasta",antofagasta
 Se Arrienda Amplio Departamento En Sector Llacolén,$950.000,3 dormitorios,2 baños,94 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
-Hermoso  Depto Amoblado Full  1 Dormitorio Norte,$650.000,1 dormitorio,1 baño,43 m² útiles,"LIDIA MORENO, 1 - 300, Parque Juan López, Antofagasta",antofagasta
+Se Arrienda Dpto Amoblado Sector Centro Vista Al Mar,$700.000,2 dormitorios,2 baños,78 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
 Se Arrienda Excelente  Departamento Nuevo 1 Ambiente Full...,$650.000,1 dormitorio,1 baño,50 m² útiles,"Parque Juan López, Antofagasta",antofagasta
 Se Arrienda Hermoso Departamento Con Vista Al Mar,$600.000,1 dormitorio,1 baño,50 m² útiles,"Parque Juan López, Antofagasta",antofagasta
 Se Arrienda Dpto. 1 Dormitorio Sector Sur,$680.000,1 dormitorio,1 baño,45 m² útiles,"Playa Blanca, Antofagasta",antofagasta
@@ -256,219 +302,179 @@ Se Arrienda Departamento Amoblado En Sector Norte,$650.000,1 dormitorio,1 baño,
 Se Arrienda Departamento Vista Al Mar Sector Norte,$850.000,2 dormitorios,2 baños,74 m² útiles,"La Chimba, Antofagasta",antofagasta
 Se Arrienda Amplio Departamento  Barrio Brasil,$1.250.000,4 dormitorios,3 baños,140 m² útiles,"Parque Brasil, Antofagasta",antofagasta
 Se Arrienda Hermoso Departamento 2 Dormitorios Sector Sur...,$700.000,2 dormitorios,1 baño,57 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
+Arriendo Departamento Sector Sur Borde Costero,$650.000,1 dormitorio,1 baño,30 m² útiles,"Av. Jaime Guzmán Errázuriz 4300, Antofagasta, Antofagasta",antofagasta
+Se Arrienda Dpto. Nuevo 2 D. Vista Al Mar Sector Norte,$780.000,2 dormitorios,1 baño,60 m² útiles,"La Chimba, Antofagasta",antofagasta
 Se Arrienda Amplio Departamento A Pasos Del Estadio Regional,$1.100.000,3 dormitorios,2 baños,91 m² útiles,"Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
-Espectacular Vista A Playa Llacolén Sector Sur Antofagasta,$700.000,1 dormitorio,1 baño,43 m² útiles,"Avenida Jaime Guzmán Errázuriz, Antofagasta",antofagasta
-Departamento  Faro Norte,$500.000,1 dormitorio,1 baño,54 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
+Se Arrienda Hermoso Departamento Amoblado Sector Sur.,$600.000,3 dormitorios,1 baño,50 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
 Arriendo Hermoso Departamento Vista Al Mar,$580.000,1 dormitorio,1 baño,37 m² útiles,"Nicolás Tirado, Antofagasta",antofagasta
-¡tu Nuevo Hogar En Antofagasta Te Espera!,$850.000,3 dormitorios,1 baño,68 m² útiles,"Galleguillos Lorca 1553, 1 - 300, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Amplio E Iluminado Departamento Hermosa Vista...,$1.100.000,3 dormitorios,1 baño,125 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Hermoso Departamento Frente Al Mar.,$680.000,2 dormitorios,2 baños,60 m² totales,"Hospital Regional, Antofagasta",antofagasta
 Se Arrienda Hermoso Y Nuevo Departamento Del Norte,$1.300.000,3 dormitorios,2 baños,89 m² útiles,"Parque Juan López, Antofagasta",antofagasta
 Se Arrienda Departamento  Nuevo Sector Norte,$890.000,3 dormitorios,2 baños,89 m² útiles,"Parque Juan López, Antofagasta",antofagasta
 Se Arrienda O Vende Exclusivo Departamento Full Equipado,$950.000,2 dormitorios,2 baños,84 m² útiles,"Playa Blanca, Antofagasta",antofagasta
-Departamento Condominio Parque Costanera,$700.000,3 dormitorios,2 baños,90 m² útiles,"Calle El Oro, 8100 - 8400, Nicolás Tirado, Antofagasta",antofagasta
-Se Arrienda Amplio E Iluminado Departamento Hermosa Vista...,$1.200.000,3 dormitorios,1 baño,125 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Departamento Nuevo Edificio Alerce,$800.000,2 dormitorios,2 baños,80 m² útiles,"Avenida Rica Aventura  10701, La Chimba, Antofagasta",antofagasta
-Se Arrienda Dpto. Costa Laguna Vista Al Mar,$730.000,2 dormitorios,2 baños,72 m² útiles,"Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Dpto.2d. 2b. Costa Laguna Vista Al Mar,$730.000,2 dormitorios,2 baños,70 m² útiles,"Costa Laguna, Antofagasta",antofagasta
 Se Arrienda Hermoso Dpto. Excelente Ubicación Sector Sur ...,$1.500.000,4 dormitorios,3 baños,125 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
-Se Arrienda Departamento 3 Dormitorios 2 Baños,$750.000,3 dormitorios,2 baños,75 m² útiles,"Lidia Moreno  265, Parque Juan López, Antofagasta",antofagasta
-Arriendo  Departamento Sector Nicolas Tirado,$700.000,3 dormitorios,2 baños,78 m² útiles,"El Yodo, 8100 - 8400, Nicolás Tirado, Antofagasta",antofagasta
-Arriendo Departamento 4 Dormitorios,$1.400.000,4 dormitorios,3 baños,113 m² útiles,"Avenida Jaime Guzman, 4500 - 4800, Antofagasta",antofagasta
 "Departamento 3 Dorm, 2 Baños. Sector Avenida Brasil",$1.300.000,3 dormitorios,2 baños,120 m² útiles,"AVELINO CONTARDO CON ANGAMOS, Parque Brasil, Antofagasta",antofagasta
-"Arriendo Bahia Blanca, Sector Norte",$1.000.000,3 dormitorios,2 baños,87 m² útiles,"Av. Edmundo Pérez Zujovic #11 - 300890, 0, La Chimba, Antofagasta",antofagasta
-Departamento En Arriendo Sector Norte,$680.000,2 dormitorios,2 baños,60 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
-Departamento Amoblado En Arriendo Sector Norte,$780.000,2 dormitorios,2 baños,60 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
-Departamento Amoblado En Arriendo Sector Norte,$780.000,2 dormitorios,2 baños,60 m² útiles,"Ascotan Norte, 1 - 300, La Chimba, Antofagasta",antofagasta
-Moderno Departamento En Antofagasta Con Terraza,$1.200.000,3 dormitorios,2 baños,95 m² útiles,"Av. Cerro Panal, 300 - 600, Centro De Antofagasta, Antofagasta",antofagasta
-Departamento Amoblado Parque Brasil,$680.000,1 dormitorio,1 baño,48 m² útiles,"Salvador Reyes, 900 - 1200, Parque Brasil, Antofagasta",antofagasta
-"Arriendo Depto Villa Grandon, Antofagasta",$480.000,3 dormitorios,1 baño,64 m² útiles,"Bandera #7398, 1 - 300, Nicolás Tirado, Antofagasta",antofagasta
-Departamento Amoblado 1 Dor En Parque Inglés,$600.000,1 dormitorio,1 baño,47 m² útiles,"Salar Grande 121, 1 - 300, Playa Blanca, Antofagasta",antofagasta
-Departamento Interior En Sector Brasil,$700.000,3 dormitorios,1 baño,60 m² útiles,"Copiapo, 865, Parque Brasil, Antofagasta",antofagasta
-Departamento  Costa Laguna Amoblado,$620.000,2 dormitorios,2 baños,45 m² útiles,"Gladys Marin, 600 - 900, Costa Laguna, Antofagasta",antofagasta
-Arriendo Departamento Velas Del Norte,$520.000,1 dormitorio,1 baño,50 m² útiles,"Ascotan 131, 1 - 300, Centro De Antofagasta, Antofagasta",antofagasta
-"Vive Modernamente En Edificio Icono, Antofagasta",$790.000,1 dormitorio,1 baño,48 m² útiles,"Uribe 31 - 3005, 0, Centro De Antofagasta, Antofagasta",antofagasta
+Arriendo Departamento Jardines Del Sur,$720.000,2 dormitorios,2 baños,72 m² útiles,"Subida Del Agua 270, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
 Departamento Amoblado 1 Dormitorio Parque Brasil,$720.000,1 dormitorio,1 baño,40 m² totales,"Copiapó 801, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
 Amplio Departamento Sur,$900.000,3 dormitorios,2 baños,117 m² útiles,"Jaime Guzman Errazuriz - Avenida Jaime Guzmán Errázuriz 4100, Antofagasta, Chile, Jardines Del Sur, Antofagasta",antofagasta
-Departamento 3d/2b/2e,$900.000,3 dormitorios,2 baños,117 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Chile, Antofagasta",antofagasta
-Se Arrienda Departamento De 3 Dormitorios Amoblado En Sector,$1.300.000,3 dormitorios,2 baños,100 m² útiles,"Avenida Cerro Paranal 270, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento 2 Dormitorio En Sector Norte Valor,$700.000,2 dormitorios,1 baño,58 m² útiles,"Pirita 10455, Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
 Arriendo Depto. Sector Norte Antofagasta,$600.000,1 dormitorio,1 baño,37 m² útiles,"Avenida Rica Aventura 10701, Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
 Se Arrieda Departamento 2 Dormitorios En Sector Central Valo,$680.000,2 dormitorios,1 baño,54 m² útiles,"Bellavista 3831, Antofagasta, Chile, Playa Paraíso, Antofagasta",antofagasta
 "Se Arrienda Departamento Amoblado En Antofagasta, Sector Nor",$780.000,2 dormitorios,2 baños,,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
-Se Vende Departamento Amoblado En Antofagasta (costa Laguna),UF5.200,3 dormitorios,2 baños,,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
-Se Arrienda Hermoso Departamento Amoblado En Antofagasta (co,$950.000,3 dormitorios,2 baños,,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
 ¡¡excelente Oportunidad!! Se Arrienda Hermoso Departamento,$900.000,2 dormitorios,2 baños,,"Manuel Verbal 1545, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Hermoso Departamento Amoblado En Antofagasta (co,$950.000,3 dormitorios,2 baños,,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Departamento De 3 Dormitorios Amoblado En Sector,$1.300.000,3 dormitorios,2 baños,100 m² útiles,"Avenida Cerro Paranal 270, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
 Lujoso Dpto 3d3b Amoblado En Pleno Centro Por Av Argentina,$1.050.000,3 dormitorios,3 baños,140 m² útiles,"Av. Argentina 2881, Antofagasta, Chile, Centro De Antofagasta, Antofagasta",antofagasta
-"Se Arrienda Departamento Amoblado En Antofagasta, Sector Sur",$900.000,2 dormitorios,2 baños,,"Avenida Cerro Paranal 300, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
 Se Arrienda Departamento 3 Dormitorios 2 Baños  En Sector N,$780.000,3 dormitorios,2 baños,80 m² útiles,"Lidia Moreno 177, Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
+Se Arrienda Departamento En Avenida Rendic Con Av Salvador A,$600.000,1 dormitorio,1 baño,,"Avenida Salvador Allende 560, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
+Se Arrienda Departamento 2 Dormitorio En Sector Norte Valor,$700.000,2 dormitorios,1 baño,58 m² útiles,"Pirita 10455, Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
 Parque Costanera,$500.000,1 dormitorio,1 baño,39 m² útiles,"El Azufre 23, Antofagasta, Chile, Nicolás Tirado, Antofagasta",antofagasta
-"Se Arrienda Departamento Sin Amoblar $700.000 G.c Incluido,",$800.000,2 dormitorios,2 baños,,"Abracita 477, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
-"Departamento Amoblado Arriendo - Sector Coviefi, Antofagasta",$630.000,2 dormitorios,1 baño,,"Huellelhue 1040, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
-"Dpto. 2 Dormitorios En Arriendo, Av. Brasil",$800.000,2 dormitorios,2 baños,88 m² útiles,"José Miguel Carrera 1663, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
-Belllo Dpto 1d1b Amoblado Sobre Lider Express,$630.000,1 dormitorio,1 baño,42 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
-Bello Dpto Nuevo 2d1b Condominio Velas Del Norte Ii,$650.000,2 dormitorios,1 baño,40 m² útiles,"Ascotán Norte 141, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
-Bello Dpto Amoblado 1d1b Sobre Lider Express,$640.000,1 dormitorio,1 baño,38 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
-"Dpto. 3 Dormitorios En Arriendo, Llacolen",$985.000,3 dormitorios,2 baños,107 m² útiles,"Jaime Guzman Errazuriz - Avenida Jaime Guzmán Errázuriz 4100, Antofagasta, Chile, Jardines Del Sur, Antofagasta",antofagasta
 Bello Dpto Amoblado Sobre Lider Express 1d1b,$640.000,1 dormitorio,1 baño,39 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
-"Depto 2 Dormitorios Amoblado, Sector Clínica",$750.000,2 dormitorios,1 baño,58 m² útiles,"Capitán Carlos Condell 2026, Antofagasta, Chile, Antofagasta",antofagasta
+Bello Dpto Nuevo 2d1b Condominio Velas Del Norte Ii,$650.000,2 dormitorios,1 baño,40 m² útiles,"Ascotán Norte 141, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
+Belllo Dpto 1d1b Amoblado Sobre Lider Express,$630.000,1 dormitorio,1 baño,42 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
+Bello Dpto Amoblado 1d1b Sobre Lider Express,$640.000,1 dormitorio,1 baño,38 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
 Departamento Amoblado Arriendo - Antofagasta,$700.000,3 dormitorios,1 baño,,"Copiapó 865, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
 Excelente Oportunidad!! Se Arrienda Amplio Y Hermoso Departa,$1.600.000,4 dormitorios,3 baños,,"José Miguel Carrera 1821, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
 "Depto 3 Habitaciones En Arriendo, La Chimba",$550.000,3 dormitorios,1 baño,60 m² útiles,"Avenida Rica Aventura 11930, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
-"Se Arrienda Departamento $600.000 + Gastos Comunes, Sector G",$600.000,1 dormitorio,1 baño,,"La Hermandad 788, Antofagasta, Chile, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Bello Dpto 1d1b Amoblado Sobre Lider Express,$640.000,1 dormitorio,1 baño,39 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Chile, Hospital Regional, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado A Empresas Centro Ciudad A,UF29,3 dormitorios,3 baños,,"Capitán Carlos Condell 2955, Antofagasta, Chile, Centro De Antofagasta, Antofagasta",antofagasta
-"Dpto. 2 Dorm. En Arriendo, Llacolen",$780.000,2 dormitorios,2 baños,56 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Chile, Antofagasta",antofagasta
-Arriendo Casa Central Para Empresas (amoblada) Antofagasta.,$2.600.000,7 dormitorios,7 baños,,"Av. Argentina 3198, Antofagasta, Chile, Centro De Antofagasta, Antofagasta",antofagasta
 "Dpto. 2 Dorm. En Arriendo, Sector Norte",$690.000,2 dormitorios,2 baños,67 m² útiles,"Avenida Edmundo Pérez Zujovic 10890, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
 ¡excelente Oportunidad! Arriendo Departamento Amoblado Sect,$750.000,1 dormitorio,1 baño,40 m² útiles,"Las Colonias  621, Antofagasta, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
-"Se Arrienda Departamento $550.00.- + Gastos Comunes, Sector",$550.000,1 dormitorio,1 baño,,"Avenida Angamos 1087, Antofagasta, Chile, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+Arriendo Casa Central Para Empresas (amoblada) Antofagasta.,$2.600.000,7 dormitorios,7 baños,,"Av. Argentina 3198, Antofagasta, Chile, Centro De Antofagasta, Antofagasta",antofagasta
+"Se Arrienda Departamento $500.00.- + Gastos Comunes, Tipo Es",$500.000,1 dormitorio,1 baño,,"Avenida Angamos 1087, Antofagasta, Chile, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Excelente Oportunidad! Se Arrienda Departamento $670.000-con,$670.000,3 dormitorios,2 baños,,"Benito Ocampo 11640, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
+Arriendo Depto Amoblado,$750.000,2 dormitorios,2 baños,,"Ascotán Norte 155, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
 ¡excelente Oportunidad! Arriendo Departamento Sector Gran V,$650.000,1 dormitorio,1 baño,,"Las Colonias 621, Antofagasta, Chile, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Excelente Oportunidad!! $1.300.000 Se Arrienda Amplio Y Herm,$1.300.000,3 dormitorios,2 baños,,"Alcalde German Miric Vega 621, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento En Sector Costa Laguna,$1.000.000,4 dormitorios,2 baños,120 m² útiles,"Gladys Marín 625, Antofagasta, Costa Laguna, Antofagasta",antofagasta
-Se Arrienda Departamento Cerro Paranal,$950.000,3 dormitorios,2 baños,83 m² útiles,"Av. Cerro Paranal 515, Antofagasta, Coviefi, Antofagasta",antofagasta
+Se Arrienda Departamento Cerro Paranal,$900.000,3 dormitorios,2 baños,83 m² útiles,"Av. Cerro Paranal 515, Antofagasta, Coviefi, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Lomas Del Norte Ii,$800.000,3 dormitorios,2 baños,31 m² útiles,"Félix García 320, Antofagasta, Parque Juan López, Antofagasta",antofagasta
-Se Arrienda Departamento En Condominio Velas Del Norte Ii,$540.000,2 dormitorios,1 baño,50 m² útiles,"Ascotán Nte. 145, Antofagasta, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Parque Costanera,$620.000,3 dormitorios,2 baños,75 m² útiles,"El Azufre 23, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
+Se Arrienda Departamento En Condominio Velas Del Norte Ii,$540.000,2 dormitorios,1 baño,50 m² útiles,"Ascotán Nte. 145, Antofagasta, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado En Cerro Paranal,$1.350.000,3 dormitorios,2 baños,80 m² útiles,"Av. Cerro Paranal 270, Antofagasta, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado En Condominio Bonasort Vi,$565.000,3 dormitorios,1 baño,59 m² útiles,"Oficina Lastenia 11810, Antofagasta, La Chimba, Antofagasta",antofagasta
+Se Arrienda Departamento En Condominio Puerta Del Norte,$550.000,3 dormitorios,1 baño,58 m² útiles,"Alcalde Miguel Rojas 0428, Antofagasta, Costa Laguna, Antofagasta",antofagasta
 Se Arrienda Departamento En Edificio Las Garzas,$500.000,1 dormitorio,1 baño,39 m² útiles,"Sierra Nevada 11110, Antofagasta, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento En Sargento Aldea,$440.000,1 dormitorio,1 baño,34 m² útiles,"Sgto. Aldea 315, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Velas Del Norte,$595.000,2 dormitorios,2 baños,40 m² útiles,"Ascotán Nte. 131, Antofagasta, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Faro Norte,$732.000,2 dormitorios,2 baños,61 m² útiles,"Ascotán Nte. 155, Antofagasta, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado Sector Centro Norte,$550.000,1 dormitorio,1 baño,30 m² útiles,"Av. Edmundo Pérez Zujovic 5490, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Las Garzas,$500.000,1 dormitorio,1 baño,39 m² útiles,"Sierra Nevada 11110, Antofagasta, La Chimba, Antofagasta",antofagasta
-Arriendo Departamento 3hab 2ba Antofagasta,$900.000,3 dormitorios,2 baños,100 m² útiles,"José Toribio Medina, 256, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
-Amplio Departamento Con Patio Sector Sur,UF35,3 dormitorios,2 baños,150 m² útiles,"Travesía Del Cerro, 2904, Jardines Del Sur, Antofagasta",antofagasta
-"2 Dormitorios, Vista Al Mar Con Estacionamiento",$790.000,2 dormitorios,2 baños,4 m² útiles,"Avenida Jaime Guzmán Errázuriz, 4100, Antofagasta",antofagasta
 Se Arrienda Hermoso Departamento En Edificio Novo,$530.000,2 dormitorios,2 baños,54 m² útiles,"Almte. Juan José Latorre 3002, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Arriendo Departamento Amoblado  Avenida Cerro Paranal,$1.300.000,3 dormitorios,2 baños,112 m² útiles,"Paranal, 360, Coviefi, Antofagasta",antofagasta
+Se Arrienda Departamento Condominio Faro Norte Sector Norte,$580.000,2 dormitorios,2 baños,65 m² útiles,"Ascotán Nte. 155, Antofagasta, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento En Condominio Caparrosa Iii,$415.000,1 dormitorio,1 baño,38 m² útiles,"Limonita 10590, Antofagasta, Parque Juan López, Antofagasta",antofagasta
-Departamento 1d1b1e1b  Sector Sur,$650.000,1 dormitorio,1 baño,45 m² útiles,"Antilhue, 730, Coviefi, Antofagasta",antofagasta
-Departamento Costa Laguna 3d1b1e 5to Piso,$650.000,3 dormitorios,1 baño,61 m² útiles,"Los Conquistadores, 13755, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Departamento En Condominio Savona,$445.000,3 dormitorios,2 baños,45 m² útiles,"C. Llullaillaco 2351, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
+Se Arrienda Departamento En Salitrera Candelaria,$548.000,3 dormitorios,1 baño,45 m² útiles,"C. Llullaillaco 2301, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Departamento En Sargento Aldea,$500.000,2 dormitorios,1 baño,47 m² útiles,"Sgto. Aldea 315, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado En Edicifio Alto Mar,$640.000,2 dormitorios,2 baños,80 m² útiles,"Teniente Manuel Orella 643, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Oportunidad De Arriendo Sector Centro,$1.050.000,3 dormitorios,3 baños,110 m² útiles,"Avenida Argentina, 2272, Centro De Antofagasta, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado En Costa Laguna,$650.000,3 dormitorios,2 baños,75 m² útiles,"Sergio Ortega, Antofagasta, Costa Laguna, Antofagasta",antofagasta
 Se Arrienda Departamento En Costa Laguna,$570.000,3 dormitorios,2 baños,75 m² útiles,"Sergio Ortega, Antofagasta, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Departamento Sector Centro Norte,$650.000,2 dormitorios,2 baños,67 m² útiles,"Av. Antonio Rendic 4727, Antofagasta, Hospital Regional, Antofagasta",antofagasta
+"Arriendo Departamento A Pasos De Arauco Express, Centronorte",$530.000,2 dormitorios,1 baño,40 m² útiles,"Sgto. Aldea 300 - 600, Antofagasta, Hospital Regional, Antofagasta",antofagasta
+"Departamento Full Amoblado, Edificio Maitén Antofagasta",$620.000,1 dormitorio,1 baño,43 m² útiles,"Lidia Moreno 177, 1240000 Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
+"2 Dormitorios, Vista Al Mar Con Estacionamiento",$790.000,2 dormitorios,2 baños,4 m² útiles,"Avenida Jaime Guzmán Errázuriz, 4100, Antofagasta",antofagasta
+Amplio Departamento Con Patio Sector Sur,UF35,3 dormitorios,2 baños,150 m² útiles,"Travesía Del Cerro, 2904, Jardines Del Sur, Antofagasta",antofagasta
+Arriendo Hermoso Departamento Frente Al Mar,$1.200.000,3 dormitorios,2 baños,110 m² útiles,"Avenida Jaime Guzmán Errázuriz, 4200, Antofagasta",antofagasta
+Arriendo Departamento Amoblado  Avenida Cerro Paranal,$1.300.000,3 dormitorios,2 baños,112 m² útiles,"Paranal, 360, Coviefi, Antofagasta",antofagasta
+Departamento 1d1b1e1b  Sector Sur,$650.000,1 dormitorio,1 baño,45 m² útiles,"Antilhue, 730, Coviefi, Antofagasta",antofagasta
+Departamento Costa Laguna 3d1b1e 5to Piso,$650.000,3 dormitorios,1 baño,61 m² útiles,"Los Conquistadores, 13755, Costa Laguna, Antofagasta",antofagasta
+Oportunidad De Arriendo Sector Centro,$1.050.000,3 dormitorios,3 baños,110 m² útiles,"Avenida Argentina, 2272, Centro De Antofagasta, Antofagasta",antofagasta
 Gran Oportunidad De Arriendo En Sector Sur,$990.000,3 dormitorios,2 baños,90 m² útiles,"Avenida República De Croacia, 795, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Arriendo Departamento Duplex Semi Amoblado,$700.000,2 dormitorios,2 baños,85 m² útiles,"Calle Salar Grande, 121, Playa Blanca, Antofagasta",antofagasta
-Se Arrienda Departamento Sector Centro Norte,$650.000,2 dormitorios,2 baños,67 m² útiles,"Av. Antonio Rendic 4727, Antofagasta, Hospital Regional, Antofagasta",antofagasta
-"Departamento Con Vista Al Mar, Sector Sur",$800.000,2 dormitorios,2 baños,55 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
-"Hermoso Depto. Con Vista Al Mar, Sector Sur",$1.100.000,3 dormitorios,2 baños,104 m² útiles,"Jardines Del Sur, Antofagasta",antofagasta
-Hermoso Departamento Amoblado Sector Sur.,$1.350.000,3 dormitorios,2 baños,87 m² útiles,"Coviefi, Antofagasta",antofagasta
-"Hermoso Departamento Con Vista Al Mar, Sector Sur.",$1.100.000,3 dormitorios,2 baños,110 m² útiles,Antofagasta,antofagasta
-"Departamento Nuevo 2d, Sector Norte",$690.000,2 dormitorios,1 baño,53 m² útiles,"Trocadero, Antofagasta",antofagasta
-Hermoso Departamento Amoblado Para Ejecutivos Y Empresas,$1.200.000,2 dormitorios,2 baños,83 m² útiles,"Coviefi, Antofagasta",antofagasta
-"Departamento Con Vista Al Mar, Sector Sur",$850.000,3 dormitorios,2 baños,89 m² útiles,Antofagasta,antofagasta
-"Departamento Amoblado Con Vista Al Mar, Sector Sur",$950.000,2 dormitorios,2 baños,76 m² útiles,"Coviefi, Antofagasta",antofagasta
-Departamento Amoblado Con Vista Al Mar,$950.000,3 dormitorios,2 baños,75 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
-"Departamento Amoblado 3 Dormitorios, Sector Norte",$850.000,3 dormitorios,2 baños,76 m² útiles,"Nicolás Tirado, Antofagasta",antofagasta
-"Departamento Full Amoblado Con Vista Al Mar, Sector Sur",$1.100.000,2 dormitorios,2 baños,54 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
-"Departamento Full Amoblado Con Vista Al Mar, Sector Sur",$900.000,3 dormitorios,2 baños,70 m² útiles,"Playa Blanca, Antofagasta",antofagasta
-Departamento Cerca Lider Express,$650.000,2 dormitorios,1 baño,46 m² útiles,"Hospital Regional, Antofagasta",antofagasta
-"Arriendo Departamento A Pasos De Arauco Express, Centronorte",$530.000,2 dormitorios,1 baño,40 m² útiles,"Sgto. Aldea 300 - 600, Antofagasta, Hospital Regional, Antofagasta",antofagasta
-¡espacioso Dpto. En Arriendo,$730.000,3 dormitorios,2 baños,90 m² útiles,"ENTRE SALVADOR ALLENDE Y AVENIDA ANTONIO RENDIC, Hospital Regional, Antofagasta",antofagasta
-Arriendo Depto. Amoblado En Antofagasta,$790.000,1 dormitorio,1 baño,50 m² útiles,"URIBE CON WASHINGTON, Centro De Antofagasta, Antofagasta",antofagasta
-Gran Departamento Av. Brasil  (101205),$1.100.000,4 dormitorios,3 baños,150 m² útiles,"Antonino Toro 1 - 300, Parque Brasil, Antofagasta",antofagasta
-"Departamento Full Amoblado, Edificio Maitén Antofagasta",$620.000,1 dormitorio,1 baño,43 m² útiles,"Lidia Moreno 177, 1240000 Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
-Se Arrienda Dpto Amoblado A Empresas.  (86651),$1.500.000,2 dormitorios,2 baños,60 m² útiles,"Galleguillos Lorca 600 - 900, Parque Brasil, Antofagasta",antofagasta
-Depto. Amoblado A Empresas.  En Cerro Paranal (95928),$900.000,3 dormitorios,3 baños,95 m² útiles,"Avenida Cerro Paranal 1 - 300, Coviefi, Antofagasta",antofagasta
+Depto 2 Pisos Antonino Toro (101205),$1.100.000,4 dormitorios,3 baños,150 m² útiles,"Antonino Toro 1 - 300, Parque Brasil, Antofagasta",antofagasta
+Totalmente Equipado!! (24092),UF32,3 dormitorios,2 baños,136 m² útiles,"Gladys Marín, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
+Departamento 3d 2b 1e  Centro (103253),$650.000,3 dormitorios,2 baños,76 m² útiles,"Porras 1 - 300, Centro De Antofagasta, Antofagasta",antofagasta
+Impecable Departamento A Pasos Del Centro  (103521),$650.000,2 dormitorios,1 baño,75 m² útiles,"Simón Bolívar 1 - 300, Centro De Antofagasta, Antofagasta",antofagasta
+Departamento En Zona Exclusiva Para Empresas (97997),$1.500.000,4 dormitorios,3 baños,125 m² útiles,"Llacolén 1 - 300, Antofagasta",antofagasta
 Cómodo Depto. Ubicado En Parque Universitario (94401),$550.000,3 dormitorios,1 baño,40 m² útiles,"Oportunidad Arriendo En Portal Universitario, Jardines Del Sur, Antofagasta",antofagasta
-Departamento Para Empresas En Antofagasta (97997),$1.500.000,4 dormitorios,3 baños,125 m² útiles,"Departamento Amoblado En Antofagasta, Antofagasta",antofagasta
-Exclusivo Departamento  (101071),$900.000,3 dormitorios,2 baños,72 m² útiles,"Antilhue 600 - 900, Antofagasta, Chile, Playa Blanca, Antofagasta",antofagasta
-Se Arrienda Amplio Dpto Sector Sur  (93919),$1.200.000,3 dormitorios,3 baños,119 m² útiles,"Calle Valle Del Atardecer 1 - 300, Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Depto Edificio Porto Alegre (101426),$1.400.000,3 dormitorios,3 baños,120 m² útiles,"Galleguillos Lorca 1 - 300, Parque Brasil, Antofagasta",antofagasta
-Se Arrienda Departamento Nuevo. (98346),$850.000,3 dormitorios,2 baños,107 m² útiles,"Se Arrienda Departamento Nuevo., Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+Exclusivo Departamento  (101071),$900.000,3 dormitorios,2 baños,72 m² útiles,"Antilhue 600 - 900, Antofagasta, Chile, Playa Blanca, Antofagasta",antofagasta
+Se Arrienda Dpto Amoblado A Empresas.  (86651),$1.500.000,2 dormitorios,2 baños,60 m² útiles,"Galleguillos Lorca 600 - 900, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Dpto Full Amoblado Para Empresa. (96997),$1.000.000,3 dormitorios,1 baño,60 m² útiles,"Los Conquistadores 1 - 300, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Departamento Nuevo. (98346),$850.000,3 dormitorios,2 baños,107 m² útiles,"Avenida Argentina 1 - 300, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Arriendo Depto Sector Sur Antofagasta (99408),$850.000,3 dormitorios,2 baños,100 m² útiles,"ARRIENDO DEPTO 1 - 300DORMITORIOS ANTOFAGASTA, Playa Blanca, Antofagasta",antofagasta
-Hermoso Depto Sector Llacolen,$1.200.000,3 dormitorios,3 baños,110 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
 Arriendo A Empresas Y Particulares (102409),$1.400.000,3 dormitorios,3 baños,120 m² útiles,"Luis Franco Ávalos, Antofagasta, Chile, Playa Blanca, Antofagasta",antofagasta
-Depto Amoblado En Sector Costa Laguna,$780.000,3 dormitorios,2 baños,80 m² útiles,"Gladys Marín, Antofagasta, Costa Laguna, Antofagasta",antofagasta
-Departamento En Llacolén 2d 2b (99367),$820.000,2 dormitorios,2 baños,71 m² útiles,"Acogedor Depto 1 - 300D 2B Sur De Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-Vista Espectacular Valle Del Mar (98464),$900.000,2 dormitorios,2 baños,96 m² útiles,"Hermoso Departamento Valle Del Mar, Jardines Del Sur, Antofagasta",antofagasta
-Se Arrienda Departamento (99136),$1.100.000,3 dormitorios,2 baños,104 m² útiles,"SE ARRIENDA DEPARTAMENTO, Jardines Del Sur, Antofagasta",antofagasta
-Arriendo Departamento Hermosa Vista (100266),$850.000,2 dormitorios,2 baños,68 m² útiles,"Avenida Cerro Paranal 300 - 600, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
+Departamento Valle Del Mar (103698),$900.000,2 dormitorios,2 baños,96 m² útiles,"Valle Del Mar 3600 - 3900, Antofagasta, Chile, Jardines Del Sur, Antofagasta",antofagasta
 Departamento Palmas Del Sur 1 (101607),$790.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Jaime Guzmán Errázuriz 1 - 300, Jardines Del Sur, Antofagasta",antofagasta
-Hermoso Departamento Llacolen  (101137),$800.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Jaime Guzmán Errázuriz 1500 - 1800, Jardines Del Sur, Antofagasta",antofagasta
-Amplio Depto Frente Al Mar Sector Llacolen,$1.350.000,3 dormitorios,2 baños,130 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
 Excéntrico Conectividad Ricaventura   (101035),$850.000,2 dormitorios,2 baños,71 m² útiles,"Avenida Rica Aventura 1 - 300, Parque Juan López, Antofagasta",antofagasta
+Se Arrienda Amplio Departamento (103545),$700.000,3 dormitorios,2 baños,76 m² útiles,"Avenida Pedro Aguirre Cerda 300 - 600, Trocadero, Antofagasta",antofagasta
 Se Arrienda Departamento En Antofagasta (102980),$620.000,3 dormitorios,1 baño,55 m² útiles,"Sierra Nevada 10500 - 10800, Parque Juan López, Antofagasta",antofagasta
-Se Arrienda Departamento En Antofagasta (102977),$550.000,3 dormitorios,1 baño,45 m² útiles,"Calle Llullaillaco 2100 - 2400, Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Departamento En Antofagasta (101000),$1.000.000,3 dormitorios,2 baños,95 m² útiles,"Osvaldo Silva Castellón 1 - 300, Playa Blanca, Antofagasta",antofagasta
-Arriendo Departamento En Sector Norte (98224),$550.000,1 dormitorio,1 baño,40 m² útiles,"Se Arrienda Departamento En Sector Norte, Parque Juan López, Antofagasta",antofagasta
+Se Arrienda Departamento En Antofagasta (98224),$550.000,1 dormitorio,1 baño,40 m² útiles,"Lidia Moreno 1 - 300, Parque Juan López, Antofagasta",antofagasta
+Oportunidad Arriendo Departamento (103511),$550.000,2 dormitorios,1 baño,60 m² útiles,"Sierra Nevada 300 - 600, Parque Juan López, Antofagasta",antofagasta
+Se Arrienda Departamento (103045),$680.000,2 dormitorios,1 baño,41 m² útiles,"Avenida Iquique 300 - 600, Playa Paraíso, Antofagasta",antofagasta
 Se Arrienda Departamento (101893),$720.000,3 dormitorios,2 baños,78 m² útiles,"El Yodo 1 - 300, Nicolás Tirado, Antofagasta",antofagasta
-Arriendo Departamento (101899),$750.000,3 dormitorios,2 baños,74 m² útiles,"Ascotán Norte 1 - 300, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento En Condominio Faro Norte,$650.000,2 dormitorios,2 baños,52 m² útiles,"Ascotán Norte 155, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento En Condominio Faro Norte,$650.000,2 dormitorios,2 baños,52 m² útiles,"Ascotán Nte. 1 - 300, Antofagasta, La Chimba, Antofagasta",antofagasta
-Departamento Excelente Ubicación Parque Brasil 5d/3b Sin Gc,$1.100.000,5 dormitorios,3 baños,134 m² útiles,"Av. Gral. Bernardo O'Higgins 1200 - 1500, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Arriendo  987005522,$750.000,2 dormitorios,2 baños,60 m² útiles,"Balmaceda  1414, Antofagasta, Calama SN, Hospital Regional, Antofagasta",antofagasta
+Se Arrienda Depto 2d+2b+1est Sin Amoblar 1.000.000/ Semiamob,$1.000.000,2 dormitorios,2 baños,83 m² útiles,"Llacolén, Jardines Del Sur, Antofagasta",antofagasta
+Se Arrienda Apart Hotel Con 12 Habitaciones Con Baño Privado,UF280,12 dormitorios,13 baños,725 m² totales,"Cerca Del Antonino Heladería Y Churrería, Parque Brasil, Antofagasta",antofagasta
+Departamento,$1.000.000,3 dormitorios,2 baños,87 m² totales,"Av Edmundo Pérez Zujovic 10890, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento Duplex En Condominio Parque Juan Ló,$1.000.000,4 dormitorios,2 baños,100 m² totales,"Lidia Moreno, Parque Juan López, Antofagasta",antofagasta
 Arriendo Departamentos Full Amoblados De Dos Y Tres Dormitor,$1.700.000,3 dormitorios,2 baños,130 m² totales,"JAIME GUZMAN ERRAZURIZ, Jardines Del Sur, Antofagasta",antofagasta
-Se Arrienda Apart Hotel Con 12 Habitaciones Con Baño Privado,UF280,12 dormitorios,13 baños,725 m² totales,"Cerca Del Antonino Heladería Y Churrería, Parque Brasil, Antofagasta",antofagasta
-Se Arrienda Depto 2d+2b+1est Sin Amoblar 1.000.000/ Semiamob,$1.000.000,2 dormitorios,2 baños,83 m² útiles,"Llacolén, Jardines Del Sur, Antofagasta",antofagasta
-Se Arrienda Departamento Sin Amoblar En Cerro Paranal De 1 D,$620.000,1 dormitorio,1 baño,44 m² útiles,"Cerro Paranal 515, Coviefi, Antofagasta",antofagasta
+Se Arrienda Espectacular Departamento Amoblado Estilo Maripo,$850.000,2 dormitorios,2 baños,52 m² útiles,"Av. Argentina A Pasos De La Avenida Brasil, Parque Brasil, Antofagasta",antofagasta
+Arriendo Departamento Amoblado En La Av. Cerro Paranal De La,$1.300.000,3 dormitorios,2 baños,110 m² útiles,"AV. CERRO PARANAL, Coviefi, Antofagasta",antofagasta
 Se Arrienda Departamento En El Azufre 23 De 2 D+2b+1 Est Y 1,$630.000,2 dormitorios,2 baños,70 m² totales,"EL Azufre 23, Nicolás Tirado, Antofagasta",antofagasta
+Exclusiva Ubicación Full Amoblado 3d2b,$1.420.000,3 dormitorios,2 baños,93 m² totales,"Cerro Paranal 270, Coviefi, Antofagasta",antofagasta
 Exclusiva Ubicación 4d 3b Full Amoblado,$1.200.000,4 dormitorios,3 baños,111 m² totales,"Avenida Jaime Guzmán 04794, Antofagasta",antofagasta
 Se Arrienda Departamento Grande Playa Llacolen,$900.000,3 dormitorios,2 baños,120 m² totales,"Avenida Jaime Guzman 04794, Centro De Antofagasta, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado Jardines Del Sur,$2.000.000,3 dormitorios,3 baños,140 m² útiles,"Avenida Claudio Arrau, Jardines Del Sur, Antofagasta",antofagasta
-Se Arrienda Espectacular Departamento Amoblado Estilo Maripo,$850.000,2 dormitorios,2 baños,52 m² útiles,"Av. Argentina A Pasos De La Avenida Brasil, Parque Brasil, Antofagasta",antofagasta
-Exclusiva Ubicación Full Amoblado 3d2b,$1.420.000,3 dormitorios,2 baños,93 m² totales,"Cerro Paranal 270, Coviefi, Antofagasta",antofagasta
 Dpto. 2d2b Full Amoblado Ed Santos Ossa,$790.000,2 dormitorios,2 baños,50 m² útiles,"Calle Copiapo 801, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Departamento En Condominio Faro Norte,$650.000,2 dormitorios,2 baños,52 m² útiles,"Ascotán Norte 155, Antofagasta, Chile, La Chimba, Antofagasta",antofagasta
 Cerro Paranal Dpto. 2d2b Full Amoblado,$950.000,2 dormitorios,2 baños,1 m² útiles,"Avenida Cerro Paranal 210, Coviefi, Antofagasta",antofagasta
 Cerro Paranal Dpto. 3d2b Amoblado - Propiedades Ok,$1.350.000,3 dormitorios,2 baños,96 m² totales,"Avenida Cerro Paranal 271, Coviefi, Antofagasta",antofagasta
-"Arriendo Departamento En Jardines Del Sur,  Ciudad De Antofa",$1.200.000,3 dormitorios,3 baños,1 m² totales,"JARDINES DEL SUR, Jardines Del Sur, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado Sector Norte,$850.000,3 dormitorios,2 baños,73 m² útiles,"BONASORT 9, La Chimba, Antofagasta",antofagasta
-Arriendo Departamento En El Edificio Torre Del Mar Sector No,$1.100.000,3 dormitorios,2 baños,1 m² totales,"Av. Pedro Aguirre Cerda, Jardines Del Sur, Antofagasta",antofagasta
+Se Arrienda Departamento En Condominio Faro Norte,$650.000,2 dormitorios,2 baños,52 m² útiles,"Ascotán Nte. 1 - 300, Antofagasta, La Chimba, Antofagasta",antofagasta
+Arriendo Departamento Amoblado En La Av. Cerro Paranal Ciuda,$1.300.000,3 dormitorios,2 baños,98 m² útiles,"AV. CERRO PARANAL, Coviefi, Antofagasta",antofagasta
+Departamento Amoblado Excelente Ubicación Sector Sur,$700.000,1 dormitorio,1 baño,45 m² útiles,"Av. Argentina 1500 - 1800, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Lindo Departamento Sector Parque Brasil,$850.000,2 dormitorios,2 baños,79 m² útiles,"Galleguillos Lorca 1693, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Departamento Excelente Ubicación Parque Brasil 5d/3b Sin Gc,$1.100.000,5 dormitorios,3 baños,134 m² útiles,"Av. Gral. Bernardo O'Higgins 1200 - 1500, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Espectacular Departamento En Arriendo,$700.000,3 dormitorios,1 baño,76 m² útiles,"CONDOMINIO VOLCANES, Parque Juan López, Antofagasta",antofagasta
 Hermoso Departamento En Arriendo,$580.000,1 dormitorio,1 baño,44 m² útiles,"EDIFICIO  ROBLE, Parque Juan López, Antofagasta",antofagasta
-"Scp Arrienda Depto Sector Norte De Antofagasta, 3h 2b.",$1.200.000,3 dormitorios,2 baños,88 m² útiles,"SCP ARRIENDA DEPTO SECTOR NORTE DE ANTOFAGASTA, 3H 2B., La Chimba, Antofagasta",antofagasta
+"Scp Arrienda Depto Sector Norte De Antofagasta, 3h 2b.",$1.000.000,3 dormitorios,2 baños,88 m² útiles,"SCP ARRIENDA DEPTO SECTOR NORTE DE ANTOFAGASTA, 3H 2B., La Chimba, Antofagasta",antofagasta
+Se Arrienda Departamento,$600.000,2 dormitorios,1 baño,60 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
 Se Arrienda Departamento Nuevo,$800.000,2 dormitorios,2 baños,60 m² útiles,"ANTOFAGASTA, Antofagasta",antofagasta
-Se Arrienda Departamento,$800.000,2 dormitorios,2 baños,60 m² útiles,"ANTOFAGASTA, Antofagasta",antofagasta
-Se Arrienda Departamento,$860.000,3 dormitorios,2 baños,112 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento,$690.000,2 dormitorios,2 baños,60 m² útiles,"ANTOFAGASTA, Parque Juan López, Antofagasta",antofagasta
-Se Arrienda Departamento,$600.000,2 dormitorios,1 baño,65 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento,$670.000,3 dormitorios,2 baños,90 m² útiles,"ANTOFAGASTA, Nicolás Tirado, Antofagasta",antofagasta
-Se Arrienda Departamento,$700.000,2 dormitorios,2 baños,55 m² útiles,"ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
+¡espacioso Dpto. En Arriendo,$730.000,3 dormitorios,2 baños,90 m² útiles,"ENTRE SALVADOR ALLENDE Y AVENIDA ANTONIO RENDIC, Hospital Regional, Antofagasta",antofagasta
+Se Arrienda Departamento Amoblado,$670.000,3 dormitorios,2 baños,90 m² útiles,"ANTOFAGASTA, Nicolás Tirado, Antofagasta",antofagasta
 Se Arrienda Departamento,$600.000,2 dormitorios,2 baños,65 m² útiles,"ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
+Arriendo Depto. Amoblado En Antofagasta,$790.000,1 dormitorio,1 baño,50 m² útiles,"URIBE CON WASHINGTON, Centro De Antofagasta, Antofagasta",antofagasta
+Departamento 2 Dormitorios Amoblado - Promo Hot Sale,$790.000,2 dormitorios,2 baños,55 m² útiles,"Salvador Reyes 1230, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado,$710.000,1 dormitorio,1 baño,60 m² útiles,"ANTOFAGASTA, Parque Juan López, Antofagasta",antofagasta
 Se Arrienda Departamento,$950.000,3 dormitorios,2 baños,90 m² útiles,"ANTOFAGASTA, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado,$610.000,2 dormitorios,1 baño,66 m² útiles,"ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado,$680.000,3 dormitorios,1 baño,60 m² útiles,"ANTOFAGASTA, Parque Juan López, Antofagasta",antofagasta
-Se Arrienda Departamento,$600.000,2 dormitorios,1 baño,60 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
 "Scp Arrienda Depto 3h ,3b Y 2e, Av Argentina",$1.050.000,3 dormitorios,3 baños,97 m² útiles,"SCP ARRIENDA DEPTO 3H ,3B Y 2E, AV ARGENTINA, Centro De Antofagasta, Antofagasta",antofagasta
-Se Arrienda Departamento,$510.000,3 dormitorios,1 baño,65 m² útiles,"ANTOFAGASTA, Costa Laguna, Antofagasta",antofagasta
 Se Arrienda Departamento,$630.000,3 dormitorios,2 baños,90 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
-Se Arrienda Departamento,$570.000,2 dormitorios,1 baño,55 m² útiles,"ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
+Se Arrienda Departamento,$510.000,3 dormitorios,1 baño,65 m² útiles,"ANTOFAGASTA, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Departamento,$700.000,2 dormitorios,2 baños,55 m² útiles,"ANTOFAGASTA, Centro De Antofagasta, Antofagasta",antofagasta
+Se Arrienda Departamento Amoblado,$690.000,2 dormitorios,2 baños,60 m² útiles,"ANTOFAGASTA, Parque Juan López, Antofagasta",antofagasta
 Se Arrienda Departamento,$1.150.000,3 dormitorios,2 baños,100 m² útiles,"ANTOFAGASTA, Costa Laguna, Antofagasta",antofagasta
 Depto. Caparrosa I,$550.000,1 dormitorio,1 baño,38 m² útiles,"DEPTO. CAPARROSA I, Parque Juan López, Antofagasta",antofagasta
 "Scp Arrienda Dept , 2h, 1b, 1e Sector Costa Laguna Amoblado",$700.000,2 dormitorios,1 baño,57 m² útiles,"SCP ARRIENDA DEPT , 2H, 1B, 1E SECTOR COSTA LAGUNA AMOBLADO, Costa Laguna, Antofagasta",antofagasta
 Depto. Amoblado Edificio Don Pedro,$1.300.000,3 dormitorios,2 baños,100 m² útiles,"DEPTO. AMOBLADO EDIFICIO DON PEDRO, Centro De Antofagasta, Antofagasta",antofagasta
-Se Arrienda Departamento,$850.000,2 dormitorios,2 baños,65 m² útiles,"ANTOFAGASTA, La Chimba, Antofagasta",antofagasta
 Antofagasta,$680.000,2 dormitorios,2 baños,75 m² útiles,"ANTOFAGASTA, Nicolás Tirado, Antofagasta",antofagasta
+Departamento 2 Dormitorios 1 Baño En Piso 24 - En Arriendo,$610.000,2 dormitorios,1 baño,43 m² útiles,"Av. Edmundo Pérez Zujovic 5134, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 Se Vende Departamento,UF2.350,1 dormitorio,1 baño,50 m² útiles,"ANTOFAGASTA, Nicolás Tirado, Antofagasta",antofagasta
-"Bello Depto Sur, Arriendo Frente Paseo Del Mar Antofagasta",$580.000,1 dormitorio,1 baño,40 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
+Ultimo Departamento 2 Dormitorios Promo Hot Sale,$540.000,2 dormitorios,1 baño,43 m² útiles,"Av. Edmundo Pérez Zujovic 5134, Antofagasta, Hospital Regional, Antofagasta",antofagasta
 "Arriendo 3d, 2 B Antofagasta. Llacolén. Sin Aval. Sin I.p.c",$820.000,3 dormitorios,2 baños,97 m² útiles,"Av. Jaime Guzmán Errázuriz 5106, Antofagasta, Antofagasta",antofagasta
 An189a Depto 3d2b1e1bo Línea Costera Bahía Blanca Sec. Norte,$870.000,3 dormitorios,2 baños,100 m² útiles,"Av Edmundo Perez Zujovic 10890, La Chimba, Antofagasta",antofagasta
 Edif. Ipanema. 3d-3b Full Amoblado. Gci. Gran Departamento,$1.600.000,3 dormitorios,3 baños,100 m² útiles,"EDIF. IPANEMA. 3D-3B FULL AMOBLADO. GCI. GRAN DEPARTAMENTO, Parque Brasil, Antofagasta",antofagasta
 Depto Avda Brasil 1d/1b Sin Amoblar,$680.000,1 dormitorio,1 baño,50 m² útiles,"DEPTO AVDA BRASIL 1D/1B SIN AMOBLAR, Parque Brasil, Antofagasta",antofagasta
 Depto Vista Al Mar 3d1b1e Parque Universitario,$530.000,3 dormitorios,1 baño,50 m² útiles,"Emile Sironvalle 715, Antofagasta, Antofagasta 1240000, Chile, Jardines Del Sur, Antofagasta",antofagasta
-Departamento Amoblado Excelente Ubicación Sector Sur,$700.000,1 dormitorio,1 baño,45 m² útiles,"Av. Argentina 1500 - 1800, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Arriendo 3d2b (disponible Arriendo Con Opción De Compra),$820.000,3 dormitorios,2 baños,83 m² útiles,"Av. Jaime Guzmán Errázuriz 5106, Antofagasta",antofagasta
-Se Arrienda Departamento Edificio Guadalupe Cerro Paranal,$950.000,3 dormitorios,2 baños,90 m² útiles,"Av. Cerro Paranal 375, Antofagasta, Coviefi, Antofagasta",antofagasta
 "Edif. Copacabana, 2d-2b, Excelente Ubicación. Mas Gc.",$1.000.000,2 dormitorios,2 baños,70 m² útiles,"EDIF. COPACABANA, 2D-2B, EXCELENTE UBICACIÓN, Parque Brasil, Antofagasta",antofagasta
-Arriendo Departamento Sector Sur Borde Costero,$650.000,1 dormitorio,1 baño,45 m² útiles,"Av. Jaime Guzmán Errázuriz 4300, Antofagasta, Antofagasta",antofagasta
-Depto Full Amoblado 2d2b1e Sector Sur Av Argentina - Vyaok,$885.000,2 dormitorios,2 baños,53 m² útiles,"Avenida Argentina 1340, Antofagasta, Antofagasta 1240000, Chile, Parque Brasil, Antofagasta",antofagasta
+Amplio Dpto Con Entrega Inmediata I Sector Centro,UF21,3 dormitorios,2 baños,76 m² útiles,"Adamson 3597, 1.2432e+06 - 1.2435e+06 Antofagasta, Chile, Playa Paraíso, Antofagasta",antofagasta
 Edif. Porvenir. Central. Gci. 1d-1b.,$580.000,1 dormitorio,1 baño,45 m² útiles,"EDIF. PORVENIR. CENTRAL. GCI. 1D-1B., Playa Paraíso, Antofagasta",antofagasta
-Arrienda Su Dueño Depto 2 D 2 B En Suite Sin Comision,$1.300.000,2 dormitorios,2 baños,72 m² útiles,"Av. Balmaceda 2415, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Depto Full Amoblado 2d2b1e Sector Sur Av Argentina - Vyaok,$885.000,2 dormitorios,2 baños,53 m² útiles,"Avenida Argentina 1340, Antofagasta, Antofagasta 1240000, Chile, Parque Brasil, Antofagasta",antofagasta
+Arriendo 4d3b (disponible Arriendo Con Opción De Compra),$1.200.000,3 dormitorios,2 baños,95 m² útiles,"Av. Jaime Guzmán Errázuriz 5190, Antofagasta, Antofagasta",antofagasta
+Arriendo Depto Amoblado Av.cerro Paranal Ed. Gea Antofagasta,$630.000,1 dormitorio,1 baño,45 m² totales,"Avenida Cerro Paranal, Coviefi, Antofagasta",antofagasta
+Departamento En Arriendo 3d/2b/1e/1b Cerro Paranal 271,$900.000,3 dormitorios,2 baños,100 m² útiles,"Av. Cerro Paranal 271, Antofagasta, Coviefi, Antofagasta",antofagasta
+"Arriendo Departamento Amoblado Piso 27 En Edificio Rapallo,",$1.000.000,2 dormitorios,2 baños,81 m² útiles,"Cerro Paranal  380, Coviefi, Antofagasta",antofagasta
 Arriendo Departamento Edificio El Roble 3d 2b,$850.000,3 dormitorios,2 baños,92 m² útiles,"Oficina Pedro De Valdivia 196, Antofagasta, Parque Juan López, Antofagasta",antofagasta
+"Se Arrienda Espectacular Dpto. Full Amoblado, Llacolen.",$1.320.000,2 dormitorios,2 baños,90 m² útiles,"Av. Jaime Guzmán Errázuriz 4200 - 4500, Antofagasta, Antofagasta",antofagasta
 Departamento En Arriendo Costa Laguna,$1.000.000,3 dormitorios,2 baños,112 m² útiles,"Gladys Marin 625 - Costa Laguna, Antofagasta",antofagasta
-Hermoso Departamento Nuevo Sector Norte,$650.000,1 dormitorio,1 baño,48 m² útiles,"Sierra Nevada 11100 - 11400, Antofagasta, La Chimba, Antofagasta",antofagasta
 Depto Costa Laguna Con Vista Al Mar,$900.000,3 dormitorios,2 baños,90 m² útiles,"Gladys Marín, Antofagasta, Costa Laguna, Antofagasta",antofagasta
-Departamento 2d-2b Parque Costanera,$750.000,2 dormitorios,2 baños,63 m² útiles,"El Azufre 23, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
-Depto 3d/2b Con Terraza Amplia Estac Y Bod. Av Cerro Paranál,$1.150.000,3 dormitorios,2 baños,89 m² útiles,"Av Cerro Paranal 375, Coviefi, Antofagasta",antofagasta
+Hermoso Departamento Nuevo Sector Norte,$650.000,1 dormitorio,1 baño,48 m² útiles,"Sierra Nevada 11100 - 11400, Antofagasta, La Chimba, Antofagasta",antofagasta
+Departamento 2d-2b Parque Costanera,$700.000,2 dormitorios,2 baños,63 m² útiles,"El Azufre 23, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
 "Arriendo Departamento 3d/2b Frente Al Mar Av Croacia,antofa",$1.100.000,3 dormitorios,2 baños,114 m² útiles,"Av. República De Croacia 0284, Antofagasta, Playa Blanca, Antofagasta",antofagasta
 "Departamento En Condominio Alcázar Del Mar,  Coviefi.",$800.000,3 dormitorios,2 baños,94 m² útiles,"Trumao 900 - 1200, Antofagasta, Coviefi, Antofagasta",antofagasta
 Departamento Costado Jumbo Norte,$800.000,3 dormitorios,2 baños,89 m² útiles,"Pedro Aguirre Cerda  SN, Trocadero, Antofagasta",antofagasta
-"Arriendo Hermoso Depto Av. Angamos Ed Foresta, Antofagasta",$800.000,3 dormitorios,2 baños,120 m² útiles,"Avenida Angamos, Parque Brasil, Antofagasta",antofagasta
+Depto 3d/2b Con Terraza Amplia Estac Y Bod. Av Cerro Paranál,$900.000,3 dormitorios,2 baños,89 m² útiles,"Av Cerro Paranal 375, Coviefi, Antofagasta",antofagasta
+Departamento 03 Dormitorios 01 Estacionamiento Condominio,$500.000,3 dormitorios,1 baño,60 m² útiles,"Oficina Lastenia 11810, Antofagasta, La Chimba, Antofagasta",antofagasta
 Arriendo Depto 3d/ 2b Sector Brasil Antofagasta.,$950.000,3 dormitorios,2 baños,94 m² útiles,"General Velásquez  1046, Parque Brasil, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$890.000,3 dormitorios,2 baños,80 m² útiles,"Edificio Punta Diamante Torre A, Parque Brasil, Antofagasta",antofagasta
 Departamento En Arriendo De 4 Dorm. En Antofagasta,$1.080.000,4 dormitorios,3 baños,107 m² útiles,"Departamento Edificio Ayres, Sector Llacolen, Cercano A Colegio A.I.S, Antofagasta",antofagasta
@@ -476,171 +482,185 @@ Departamento En Arriendo De 3 Dorm. En Antofagasta,$750.000,3 dormitorios,2 bañ
 Departamento En Arriendo De 2 Dorm. En Antofagasta,$850.000,2 dormitorios,2 baños,58 m² útiles,"Edificio Alerce, Bajo El Parque Juan López, Parque Juan López, Antofagasta",antofagasta
 Se  Arrienda Departamento Amoblado Cerro Paranal,$1.300.000,3 dormitorios,2 baños,100 m² útiles,"Cerro Paranal SN, Coviefi, Antofagasta",antofagasta
 Departamento Costa Laguna 2d-2b.,$750.000,2 dormitorios,2 baños,50 m² útiles,"Gladys Marín, Antofagasta, Costa Laguna, Antofagasta",antofagasta
-Arriendo Dpto Edificio Aires,$1.100.000,3 dormitorios,2 baños,480 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$800.000,3 dormitorios,2 baños,98 m² útiles,"Departamento Edificio Grenada, Antillas IV, Costado Colegio Chañares, Coviefi, Antofagasta",antofagasta
-Departamento 3d-2b Benito Ocampo 11640,$750.000,2 dormitorios,2 baños,50 m² útiles,"Benito Ocampo 11640, Dpto 401 Torre 1, Antofagasta, La Chimba, Antofagasta",antofagasta
+Departamento 3d-2b Benito Ocampo 11640,$700.000,2 dormitorios,2 baños,50 m² útiles,"Benito Ocampo 11640, Dpto 401 Torre 1, Antofagasta, La Chimba, Antofagasta",antofagasta
 Arriendo Amoblado Ed. Las Aguilas,$900.000,2 dormitorios,1 baño,48 m² útiles,"Abracita 477, Antofagasta, La Chimba, Antofagasta",antofagasta
+Arriendo Dpto Edificio Aires,$1.100.000,3 dormitorios,2 baños,480 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
+Depto Amoblado Frente Al Mar Sector Brasil Antofagasta,$850.000,3 dormitorios,2 baños,92 m² útiles,"Manuel Verbal  SN, Parque Brasil, Antofagasta",antofagasta
 Depto Duplex 4d3b1e1bo Frente A Parque Juan López,$890.000,4 dormitorios,3 baños,130 m² útiles,"Lidia Moreno 265, Antofagasta, Región De Antofagasta 1240000, Chile, Parque Juan López, Antofagasta",antofagasta
-Depto Amoblado Frente Al Mar Sector Brasil Antofagasta,$1.000.000,3 dormitorios,2 baños,92 m² útiles,"Manuel Verbal  SN, Parque Brasil, Antofagasta",antofagasta
-Se Arrienda Departamento Con Vista Al Mar,$700.000,2 dormitorios,1 baño,53 m² útiles,"Avelino Contardo 1200, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 "Amplio Departamento, Vista Al Mar, Sector Sur.",$1.000.000,3 dormitorios,3 baños,120 m² útiles,"Valle Del Mar 3600 - 3900, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-Arriendo Departamento 2dormitorios Edificio Patagua,$700.000,2 dormitorios,2 baños,68 m² útiles,"Lidia Moreno 153, Parque Juan López, Antofagasta",antofagasta
+Arriendo Amoblado Sector Centro Antofagasta,$650.000,1 dormitorio,1 baño,37 m² útiles,"Copiapo 1064, Parque Brasil, Antofagasta",antofagasta
+Arriendo Exclusivo Departamento Amoblado Travesía De Coloso,$1.220.000,3 dormitorios,2 baños,94 m² útiles,"Travesia De Coloso, Jardines Del Sur, Antofagasta",antofagasta
+Departamento 02 Dormitorios 02 Baños. Jardines Del Sur.,$700.000,2 dormitorios,2 baños,92 m² útiles,"Subida Del Desierto 310, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
 Departamento En Arriendo De 3 Dorm. En Antofagasta,$800.000,3 dormitorios,2 baños,75 m² útiles,"Departamento Nuevo, Edificio Gran Marino, En Plena Avenida Argentina Esquina Antonino Toro, Parque Brasil, Antofagasta",antofagasta
 Se Arrienda Departamento En  Sector Residencial,$780.000,2 dormitorios,2 baños,53 m² útiles,"Antilhue 1675, Antofagasta, Coviefi, Antofagasta",antofagasta
 Departamento En Arriendo De 4 Dorm. En Antofagasta,$1.400.000,4 dormitorios,3 baños,107 m² útiles,"Departamento Edificio Ayres, Sector Llacolen, Cercano A Colegio A.I.S, Antofagasta",antofagasta
-Arriendo Exclusivo Departamento Amoblado Travesía De Coloso,$1.220.000,3 dormitorios,2 baños,94 m² útiles,"Travesia De Coloso, Jardines Del Sur, Antofagasta",antofagasta
 Arriendo Bello Amoblado 3d-2b Edificio Aurora,$1.300.000,3 dormitorios,2 baños,100 m² útiles,"Av. Cerro Paranal 360, Antofagasta, Coviefi, Antofagasta",antofagasta
-Departamento En Arriendo De 2 Dorm. En Antofagasta,$1.200.000,2 dormitorios,2 baños,65 m² útiles,"Departamento Full Amoblado Edificio Puerto Nuevo, Costado Mall Plaza Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Lindo Departamento Sector Parque Brasil,$850.000,2 dormitorios,2 baños,79 m² útiles,"Galleguillos Lorca 1693, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Departamento En Arriendo De 3 Dorm. En Antofagasta,$690.000,3 dormitorios,2 baños,70 m² útiles,"Departamento Edificio Torre Codelco 2, Frente A La Municipalidad, Playa Paraíso, Antofagasta",antofagasta
-Departamento En Arriendo De 2 Dorm. En Antofagasta,$795.000,2 dormitorios,2 baños,60 m² útiles,"Departameto Amoblado Edificio Altos Del Parque, Frente A Colmena, Parque Brasil, Antofagasta",antofagasta
+"Depto Amoblado En Arriendo En Barrio Brisas, Costa Laguna",$850.000,3 dormitorios,2 baños,80 m² útiles,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
+¡vive Donde Siempre Soñaste! Depto  En Arriendo  Zona Sur,$700.000,2 dormitorios,2 baños,100 m² útiles,"Av. Cerro Paranal 210, Antofagasta, Coviefi, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$730.000,2 dormitorios,2 baños,65 m² útiles,"Departamento Amoblado Edificio Maipu En Pleno Centro De La Ciudad, Centro De Antofagasta, Antofagasta",antofagasta
 Departamento En Arriendo De 3 Dorm. En Antofagasta,$530.000,3 dormitorios,1 baño,55 m² útiles,"Departamento Edificio Salitrera Britania, Sector Parque Universitario, Jardines Del Sur, Antofagasta",antofagasta
-Arriendo Depto Amoblado Av.cerro Paranal Ed. Gea Antofagasta,$630.000,1 dormitorio,1 baño,45 m² totales,"Avenida Cerro Paranal, Coviefi, Antofagasta",antofagasta
-"Arriendo Depto  Nuevo 4 D 3 B Gran Pacífico, Antofagasta.",$1.200.000,4 dormitorios,3 baños,11 m² útiles,"Av. Jaime Guzmán Errázuriz 5190, Antofagasta, Antofagasta",antofagasta
+Departamento En Arriendo En Antofagasta,$950.000,2 dormitorios,2 baños,70 m² útiles,"Departamento Amoblado, Edificio Guadalupe, Las Antillas IV, Costado Colegio Chañares, Coviefi, Antofagasta",antofagasta
+Departamento Con Dos Dormitorios. Centarl Barrio Estacion.,$460.000,2 dormitorios,1 baño,50 m² útiles,"Eleuterio Ramírez 390, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
 Departamento En Arriendo De 1 Dorm. En Antofagasta,$550.000,1 dormitorio,1 baño,40 m² útiles,"Edificio Los Pimientos, Sector Coviefi, Antofagasta, Coviefi, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$750.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Puyehue, En Cerro Paranal, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado En Edificio Maipú,$1.400.000,2 dormitorios,2 baños,76 m² útiles,"Av. Balmaceda 2415, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+"Arriendo Depto  Nuevo 4 D 3 B Gran Pacífico, Antofagasta.",$1.200.000,4 dormitorios,3 baños,11 m² útiles,"Av. Jaime Guzmán Errázuriz 5190, Antofagasta, Antofagasta",antofagasta
 Departamento En Arriendo De 1 Dorm. En Antofagasta,$680.000,1 dormitorio,1 baño,35 m² útiles,"Departamento Amoblado Edificio El Roble, Sector Norte, A Pasos Del Colegio San Patricio, Parque Juan López, Antofagasta",antofagasta
-Departamento En Arriendo De 2 Dorm. En Antofagasta,$750.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Travesía De La Playa, Costado Del Hotel Geotel, Jardines Del Sur, Jardines Del Sur, Antofagasta",antofagasta
+Se Arrienda Departamento Amoblado En Edificio Maipú,$1.400.000,2 dormitorios,2 baños,76 m² útiles,"Av. Balmaceda 2415, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Departamento En Arriendo De 2 Dorm. En Antofagasta,$1.200.000,2 dormitorios,2 baños,65 m² útiles,"Departamento Full Amoblado Edificio Puerto Nuevo, Costado Mall Plaza Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Acogedor Dpto. Amoblado 3d En Avda. Cerro Paranal S. Sur!,$1.200.000,3 dormitorios,2 baños,90 m² útiles,"Av. Cerro Paranal, Antofagasta, Coviefi, Antofagasta",antofagasta
+Departamento En Arriendo De 2 Dorm. En Antofagasta,$700.000,2 dormitorios,2 baños,50 m² útiles,"Departamento En Edificio San Martin, Frente Al AIEP, Centro De La Ciudad, Centro De Antofagasta, Antofagasta",antofagasta
 Arriendo Departamento 3 Dormitorios 1 Baño 1 Estacionamiento,$550.000,3 dormitorios,1 baño,58 m² útiles,"Oficina Lastenia, Antofagasta, La Chimba, Antofagasta",antofagasta
-Arriendo Amoblado Dpto De 3d 2b- Sector Parque Brasil- Costa,$1.000.000,3 dormitorios,2 baños,76 m² útiles,"Manuel Verbal 1632, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
+Departamento En Arriendo De 2 Dorm. En Antofagasta,$750.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Travesía De La Playa, Costado Del Hotel Geotel, Jardines Del Sur, Jardines Del Sur, Antofagasta",antofagasta
+Arriendo Amoblado Dpto De 3d 2b- Sector Parque Brasil- Costa,$900.000,3 dormitorios,2 baños,76 m² útiles,"Manuel Verbal 1632, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
+"Espectacular Dpto., Full Amoblado Parque Ingles.",$650.000,1 dormitorio,1 baño,40 m² útiles,"C. Salar Grande 121, Antofagasta, Playa Blanca, Antofagasta",antofagasta
 Departamento Amoblado En Arriendo De 2 Dorm. En Antofagasta,$1.100.000,2 dormitorios,2 baños,75 m² útiles,"Edificio Bahamas - Cerro Paranal A Pasos Del Colegio Chañares, Antofagasta",antofagasta
+Puerto Nuevo Antofagasta Dpto. 1 Dormitorio,"UF16,90",1 dormitorio,1 baño,44 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 "Av. Argentina, Cercano Supermercado, Sector Sur.",$680.000,3 dormitorios,2 baños,95 m² útiles,"Avenida Argentina 2100 - 2400, Antofagasta, Chile, Coviefi, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$780.000,2 dormitorios,2 baños,70 m² útiles,"Departamento Edificio Capricornio, Parque Brasil, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$700.000,3 dormitorios,2 baños,76 m² útiles,"Amoblado Las Lozas, Parque Juan Lopez, Parque Juan López, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$790.000,3 dormitorios,2 baños,88 m² útiles,"Edificio Martinica, A Pasos De La Costanera Y Nuevo Mall Parque Angamos, Antofagasta",antofagasta
-Arriendo Cómodo Depto 2d/2b/estac/bod Excelente Ubicación,$615.000,2 dormitorios,2 baños,63 m² útiles,"Oviedo Cavada  4455, Playa Paraíso, Antofagasta",antofagasta
+Arriendo  Sector Centro -dpto 1 D.1 B.1 E- Puerto Nuevo,$700.000,1 dormitorio,1 baño,35 m² útiles,"Av. Balmaceda 2415, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 "Arriendo Depto E. Perez Zujovic, Ed Galileo, Antofagasta",$650.000,3 dormitorios,2 baños,80 m² totales,"Avenida Edmundo Perez Zujovic, Hospital Regional, Antofagasta",antofagasta
-Estupendo Y Acogedor Departamento Amoblado Avda. Brasil,UF20,1 dormitorio,1 baño,40 m² útiles,"Salvador Reyes 940, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Arriendo Cómodo Depto 2d/2b/estac/bod Excelente Ubicación,$615.000,2 dormitorios,2 baños,63 m² útiles,"Oviedo Cavada  4455, Playa Paraíso, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado En Av Argentina,$950.000,2 dormitorios,2 baños,75 m² útiles,"Av. Argentina 1200 - 1500, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Arriendo Dpto 3d3b 1e Sector Valle Del Mar- Jardines Del Sur,$1.190.000,3 dormitorios,3 baños,90 m² útiles,"Av. Jaime Guzmán Errázuriz 6, Antofagasta, Chile, Jardines Del Sur, Antofagasta",antofagasta
-"Arriendo Amoblado 2d 2b, Sector Parque Brasil, Centro Sur",$900.000,2 dormitorios,2 baños,70 m² útiles,"Cap. Carlos Condell 2026, Antofagasta, Antofagasta",antofagasta
 Acogedor Dpto. Amoblado 3d En Avda. Cerro Paranal S. Sur!,$1.200.000,3 dormitorios,2 baños,90 m² útiles,Antofagasta,antofagasta
 Departamento En Arriendo De 2 Dorm. En Antofagasta,$900.000,2 dormitorios,2 baños,80 m² útiles,"Edificio Triología Sur, Sector Llacolen, Antofagasta",antofagasta
-Departamento 2d-2b Amoblado Hermoso En Edificio Puerto Nuevo,UF33,2 dormitorios,2 baños,67 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+¡tu Próximo Hogar Te Espera En La Mejor Zona De La Ciudad!,$585.000,2 dormitorios,1 baño,43 m² útiles,"Tr.ª De Los Vientos 02951, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
 Arriendo Departamento Para Empresas En Av Cerro Paranal,$1.500.000,3 dormitorios,2 baños,76 m² útiles,"Av. Cerro Paranal 270, Antofagasta, Coviefi, Antofagasta",antofagasta
-Puerto Nuevo Antofagasta Dpto. 1 Dormitorio,"UF15,80",1 dormitorio,1 baño,44 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Departamento En Arriendo De 2 Dorm. En Antofagasta,$780.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Ancora, Cascadas Del Sur, A Pasos Del Jumbo Y Colegio Chañares, Coviefi, Antofagasta",antofagasta
+Departamento 2d-2b Amoblado Hermoso En Edificio Puerto Nuevo,UF33,2 dormitorios,2 baños,67 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+"Arriendo Departamento Uribe, Edificio Icono, Antofagasta",$500.000,1 dormitorio,1 baño,40 m² totales,"Uribe, Centro De Antofagasta, Antofagasta",antofagasta
+Acogedor Depto. Amoblado 3d En Torres Costa Laguna,$1.200.000,3 dormitorios,2 baños,90 m² útiles,"Gladys Marín, Antofagasta, Costa Laguna, Antofagasta",antofagasta
+Departamento En Arriendo De 2 Dorm. En Antofagasta,$750.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Ancora, Cascadas Del Sur, A Pasos Del Jumbo Y Colegio Chañares, Coviefi, Antofagasta",antofagasta
 "Arriendo Departamento 2 Dormitorios, 2 Baños,sector Coviefi",$760.000,2 dormitorios,2 baños,55 m² útiles,"Antilhue 1675, Antofagasta, Coviefi, Antofagasta",antofagasta
-Depto En Arriendo En Alma Nova,$720.000,2 dormitorios,2 baños,60 m² útiles,"Av. Iquique 5475, Iquique, Antofagasta, Hospital Regional, Antofagasta",antofagasta
-"Cond.caparrosa, Frente Homecenter,mall La Portada,incluye Gc",$600.000,3 dormitorios,1 baño,70 m² útiles,"Sierra Nevada 10488, Antofagasta, Chile, Parque Juan López, Antofagasta",antofagasta
+Departamento En Arriendo De 1 Dorm. En Antofagasta,$460.000,1 dormitorio,1 baño,40 m² totales,"Oficina Lastenia, La Chimba, Antofagasta",antofagasta
 Hermoso Depto. Exclusiva Vista Al Mar En Valle Del Mar,$850.000,2 dormitorios,2 baños,85 m² útiles,"Valle Del Mar, Jardines Del Sur, Antofagasta",antofagasta
 Departamento En Arriendo De 3 Dorm. En Antofagasta,$1.180.000,3 dormitorios,2 baños,90 m² útiles,"Departamento Edificio Travesía De La Playa, Jardines Del Sur, Jardines Del Sur, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$690.000,1 dormitorio,1 baño,45 m² útiles,"Departamento Edificio Icono, Full Amoblado, Centro De Antofagasta, Antofagasta",antofagasta
 Departamento Amoblado Y Completamente Equipado.,$1.250.000,4 dormitorios,2 baños,145 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
-Departamento En Arriendo De 1 Dorm. En Antofagasta,$445.000,1 dormitorio,1 baño,40 m² útiles,"Amoblado Bonasort III, Norte , El Edificio Está En Sector Norte Cercano A Inacap, La Chimba, Antofagasta",antofagasta
-Departamento En Arriendo De 1 Dorm. En Antofagasta,$460.000,1 dormitorio,1 baño,40 m² totales,"Oficina Lastenia, La Chimba, Antofagasta",antofagasta
 Departamento En Arriendo De 1 Dorm. En Antofagasta,$720.000,1 dormitorio,1 baño,36 m² útiles,"Departamento Amoblado,Edificio Rimini, Frente Al Colegio Chañares, Coviefi, Antofagasta",antofagasta
+Departamento Estudio Semi Amoblado Antofagasta Puerto Nuevo,"UF14,85",1 dormitorio,1 baño,30 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Excelente Departamento Arriendo Sector Centro Vista Al Mar,$650.000,2 dormitorios,2 baños,85 m² útiles,"Av. Séptimo De Línea 3480, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
 Departamento Semi Amoblado Cerro Paranal,$1.200.000,2 dormitorios,2 baños,80 m² útiles,"Av. Cerro Paranal 375, Antofagasta, Coviefi, Antofagasta",antofagasta
+"Bello Depto Sur, Arriendo Frente Paseo Del Mar Antofagasta",$580.000,1 dormitorio,1 baño,40 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
 Departamento Sector Sur Cero Paranal 3 Dor.,$950.000,3 dormitorios,2 baños,94 m² útiles,"Av. Cerro Paranal 300 - 600, Antofagasta, Coviefi, Antofagasta",antofagasta
 Dueño Arrienda Hermoso Depto Vista Al Mar Costa Laguna 2d 2b,$760.000,2 dormitorios,2 baños,53 m² útiles,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
 Excelente Departamento Arriendo Avenida Brasil Antofagasta,$630.000,1 dormitorio,1 baño,50 m² útiles,"Av. Gral. Bernardo O'Higgins 1215, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Departamento Amoblado Sector Norte 2 Dor.,$560.000,2 dormitorios,1 baño,49 m² útiles,"Pirita 10200 - 10500, Antofagasta, Parque Juan López, Antofagasta",antofagasta
+Hermoso Iluminado Y Cómodo Dpto Frente A  Playa Llacolen .,$960.000,2 dormitorios,2 baños,75 m² útiles,"Av Jaime Guzmán Errazuriz  04300, Jardines Del Sur, Antofagasta",antofagasta
 Departamento Sector Parque Brasil 2 Dor.,$900.000,2 dormitorios,2 baños,66 m² útiles,"Salvador Reyes 940, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Departamento 2 Dormitorio Centrico,$750.000,2 dormitorios,2 baños,50 m² útiles,"Teniente Manuel Orella 643, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Se Arrienda Bonito Departamento,$600.000,2 dormitorios,1 baño,60 m² útiles,"Antofagasta, Centro De Antofagasta",antofagasta
-"Arriendo Depto Llullaillaco, Altos Jardines En Antofagasta",$480.000,3 dormitorios,1 baño,60 m² totales,"Llullaillaco, Jardines Del Sur, Antofagasta",antofagasta
+Departamento Amoblado Ideal Ejecutivo Rimini,$770.000,1 dormitorio,1 baño,35 m² útiles,"Av. Cerro Paranal 380, Antofagasta, Coviefi, Antofagasta",antofagasta
 Departamento En Arriendo De 1 Dorm. En Antofagasta,$700.000,1 dormitorio,1 baño,65 m² útiles,"Parque Croata, Playa Blanca, Antofagasta",antofagasta
-Departamento Estudio Semi Amoblado Antofagasta Puerto Nuevo,"UF14,85",1 dormitorio,1 baño,30 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Se Arrienda Apartamento Amoblado En Edificio Balmaceda,$850.000,1 dormitorio,1 baño,35 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
+Se Arrienda Apartamento Amoblado En Edificio Balmaceda,$750.000,1 dormitorio,1 baño,45 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 Hermoso Departamento Un Dormitorio Amoblado,$680.000,1 dormitorio,1 baño,35 m² útiles,"Oficina Pedro De Valdivia 196, Antofagasta, Parque Juan López, Antofagasta",antofagasta
 Departamento Mariposa Sin Muebles Excelente Ubicación,$730.000,2 dormitorios,2 baños,60 m² útiles,"Av. Argentina 1665, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Departamento Sector Sur 3 Dor.,$550.000,3 dormitorios,1 baño,49 m² útiles,"C. Llullaillaco 02451, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-Departamento A Estrenar Sector Centro,$420.000,1 dormitorio,1 baño,22 m² útiles,"C. Caracoles 3300 - 3600, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
-Arriendo De Departamento Nuevo,$910.000,3 dormitorios,2 baños,97 m² útiles,"Avenida Ricaaventura  10701, Parque Juan López, Antofagasta",antofagasta
-Departamento Amoblado Y Amplio En  Sector Sur,$990.000,3 dormitorios,2 baños,90 m² útiles,"Av. Jaime Guzmán Errázuriz 4794, Antofagasta, Antofagasta",antofagasta
-Se Arrienda Bonito Mini Departamento Tipo Estudio.,$230.000,1 dormitorio,1 baño,50 m² útiles,"Agustinas, Antofagasta, Hospital Regional, Antofagasta",antofagasta
-Se Arrienda Amplio Departamento Centrico,$600.000,3 dormitorios,1 baño,70 m² útiles,"Buenos Aires, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
+Departamento A Estrenar Sector Centro,$390.000,1 dormitorio,1 baño,22 m² útiles,"C. Caracoles 3300 - 3600, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
+"Amplio Y Cómodo Departamento, Con Vista Al Mar.",$800.000,3 dormitorios,2 baños,80 m² útiles,"Av. Cardenal Carlos Oviedo Cavada 4455, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
+Departamento Tipo Estudio Excelente Ubicación,$450.000,1 dormitorio,1 baño,30 m² útiles,"Av. Argentina 1665, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Departamento Ideal Para Ejecutivo - Amoblado,$750.000,1 dormitorio,1 baño,30 m² útiles,"Salvador Reyes 940, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Amplio Departamento Centrico,$570.000,3 dormitorios,1 baño,70 m² útiles,"Buenos Aires, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
 Se Arrienda Departamento Amoblado,$560.000,2 dormitorios,1 baño,48 m² útiles,"Ascotan Norte  131, La Chimba, Antofagasta",antofagasta
-Se Arrienda Amplio Departamento En Segundo Piso,$400.000,3 dormitorios,1 baño,60 m² útiles,"Pje. El Tololo, Antofagasta, Parque Juan López, Antofagasta",antofagasta
-Departamento En Arriendo De 2 Dorm. En Antofagasta,$650.000,2 dormitorios,1 baño,45 m² útiles,"Departamento Las Antillas IV, Edificio Martinica, Sector Sur, Coviefi, Antofagasta",antofagasta
-Departamento En Arriendo En Antofagasta,$550.000,1 dormitorio,1 baño,27 m² útiles,"Departamento Edificio Plaza Tokio, A Pasos Del Balneario, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+Departamento En Arriendo En Antofagasta,$500.000,1 dormitorio,1 baño,27 m² útiles,"Departamento Edificio Plaza Tokio, A Pasos Del Balneario, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+"Se Arrienda Departamento En Barrio Universitario, Sector Sur",$565.000,3 dormitorios,1 baño,60 m² útiles,"Antofagasta, Jardines Del Sur",antofagasta
 Departamento Estudio Semi Amoblado Antofagasta Puerto Nuevo,"UF11,49",1 dormitorio,1 baño,23 m² útiles,"Av. Balmaceda 2455, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 Departamento Para Ejecutivo O Pareja Sin Hijos,$550.000,1 dormitorio,1 baño,30 m² útiles,"Salvador Reyes 940, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 Arrienda Dpto. Central 2 Dorm 1 Baño Semi Amoblado,$700.000,2 dormitorios,1 baño,45 m² útiles,"Uribe  305, Centro De Antofagasta, Antofagasta",antofagasta
-Arriendo Depto Studio Edif. Maipu (frente Mall Plaza),$650.000,1 dormitorio,1 baño,45 m² útiles,"Av. Balmaceda 2415, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Excelente Departamento Central,$360.000,1 dormitorio,1 baño,55 m² útiles,"Av. Argentina 351, Antofagasta, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
+Excelente Departamento Central,$390.000,1 dormitorio,1 baño,55 m² útiles,"Av. Argentina 351, Antofagasta, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Departamento En Arriendo En Antofagasta,$680.000,2 dormitorios,2 baños,65 m² útiles,"Departamento Edificio Club De Yates, Centro De Antofagasta, Antofagasta",antofagasta
+"Departamento Nuevo, 3d/1b Sector Jumbo Norte",$790.000,3 dormitorios,1 baño,58 m² útiles,"Calle Nueva 4 419, Antofagasta, Trocadero, Antofagasta",antofagasta
 Arriendo - Cerro Paranal,$1.000.000,2 dormitorios,2 baños,400 m² útiles,"Av. Cerro Paranal, Antofagasta, Coviefi, Antofagasta",antofagasta
 Edificio Aires - Arriendo,$1.100.000,3 dormitorios,2 baños,400 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
+Amplio Departamento Parque Ingles 3d/2b,$1.100.000,3 dormitorios,2 baños,95 m² útiles,"Leonardo Guzmán, Antofagasta, Playa Blanca, Antofagasta",antofagasta
+Departamento Amoblado 1d/1b Sector Costanera Sur,$650.000,1 dormitorio,1 baño,45 m² útiles,"Manuel Verbal 1258, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+"Departamento 2d/2b Cerro Paranal, Ed. Puyehue",$830.000,2 dormitorios,2 baños,75 m² útiles,"Av. Cerro Paranal 270, Antofagasta, Coviefi, Antofagasta",antofagasta
+Estupendo Y Acogedor Departamento Amoblado Avda. Brasil,UF19,1 dormitorio,1 baño,40 m² útiles,"Salvador Reyes 940, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 "Arriendo Departamento Estilo Mariposa, En Faro Norte.",$700.000,2 dormitorios,2 baños,60 m² útiles,"Ascotán Nte. 151, Antofagasta, La Chimba, Antofagasta",antofagasta
 "Arriendo Departamento, En Edificio Faro Norte",$700.000,2 dormitorios,2 baños,60 m² útiles,"Ascotán Nte. 151, Antofagasta, La Chimba, Antofagasta",antofagasta
-Departamento 03 Dormitorios 01 Estacionamiento Condominio,$500.000,3 dormitorios,1 baño,60 m² útiles,"Oficina Lastenia 11810, Antofagasta, La Chimba, Antofagasta",antofagasta
-Departamento 02 Dormitorios 02 Baños. Jardines Del Sur.,$700.000,2 dormitorios,2 baños,92 m² útiles,"Subida Del Desierto 310, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-"Departamento 3/d 2/b, Sector Coviefi",$620.000,3 dormitorios,2 baños,80 m² útiles,"Mehuín 01637, Antofagasta, Coviefi, Antofagasta",antofagasta
-Amplio Departamento Parque Ingles 3d/2b,$1.100.000,3 dormitorios,2 baños,95 m² útiles,"Leonardo Guzmán, Antofagasta, Playa Blanca, Antofagasta",antofagasta
-Depto 2d 2d 1es Sector Norte Calle El Azufre,$600.000,2 dormitorios,2 baños,70 m² útiles,"El Azufre  23, Nicolás Tirado, Antofagasta",antofagasta
+Arriendo Departamento Amoblado Edificio Futuro,$1.200.000,3 dormitorios,3 baños,120 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
 Hermoso Departamento 4dorm + 3baños Llacolen Vista Al Mar,$1.000.000,4 dormitorios,3 baños,120 m² útiles,"Av. Jaime Guzmán Errázuriz 4794, Antofagasta, Antofagasta",antofagasta
 Depto Amoblado Coviefi 2d2b,$750.000,2 dormitorios,2 baños,60 m² útiles,"Antilhue  1675, Coviefi, Antofagasta",antofagasta
+Depto 2d 2d 1es Sector Norte Calle El Azufre,$600.000,2 dormitorios,2 baños,70 m² útiles,"El Azufre  23, Nicolás Tirado, Antofagasta",antofagasta
 Depto Full Equipado Centro Antofagasta 2d 2b 1e,$800.000,2 dormitorios,2 baños,65 m² útiles,"Cap. Carlos Condell 3177, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 Id 45369 Av. Argentina #2272,$1.050.000,3 dormitorios,3 baños,140 m² útiles,"Av. Argentina 2272, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
 "Id 44348 Radoslav Razmilic #1385, Edificio Lapislázuli",$1.500.000,4 dormitorios,2 baños,140 m² útiles,"Radoslav Razmilic 1385, Antofagasta, Playa Blanca, Antofagasta",antofagasta
 Id 44438 Sierra Nevada #10464,$680.000,3 dormitorios,2 baños,91 m² útiles,"Sierra Nevada 10464, Antofagasta, Parque Juan López, Antofagasta",antofagasta
 "Departamento Nuevo 2 Hab, 2 Baños Con Est. Y Bodega",$800.000,2 dormitorios,2 baños,59 m² útiles,"Avenida Rica Aventura 10701, Parque Juan López, Antofagasta",antofagasta
 Arriendo Departamento Sur Antofagasta (trato Directo),$990.000,3 dormitorios,2 baños,104 m² útiles,"Jaime Guzman Errazuriz - Av. Jaime Guzmán Errázuriz 4100, Antofagasta, Jardines Del Sur, Antofagasta",antofagasta
-"Arriendo Hermoso Departamento Nuevo, Amoblado",$690.000,1 dormitorio,1 baño,34 m² útiles,"Sierra Nevada 11100 - 11400, Antofagasta, La Chimba, Antofagasta",antofagasta
-Oportunidad! Depto Parque Brasil 3d/3b Edificio Inmigrantes,$1.000.000,3 dormitorios,3 baños,92 m² útiles,"José Miguel Carrera 1663, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
 Departamento Cerca Del Centro Buena Vista,$800.000,3 dormitorios,2 baños,75 m² útiles,"Av. Argentina 1340, Antofagasta, Parque Brasil, Antofagasta",antofagasta
-Hermoso Iluminado Y Cómodo Dpto Frente A  Playa Llacolen,$960.000,2 dormitorios,2 baños,75 m² útiles,"Av Jaime Guzmán Errazuriz  04300, Jardines Del Sur, Antofagasta",antofagasta
-"Arriendo Depto Nuevo, Trato Directo | Velas Del Norte Ii",$700.000,3 dormitorios,2 baños,74 m² útiles,"Ascotán Nte. 141, Antofagasta, La Chimba, Antofagasta",antofagasta
 Dueño Arrienda Departamento Almagro 01 Dormitorio S/amoblar,$620.000,1 dormitorio,1 baño,34 m² útiles,"Av. Argentina 1665, Antofagasta, Parque Brasil, Antofagasta",antofagasta
 "Depto Frente Al Mar, Condominio Las Antillas",$1.100.000,3 dormitorios,2 baños,130 m² útiles,"Alcalde German Miric Vega 216, Antofagasta, Coviefi, Antofagasta",antofagasta
-Se Arrienda Departamento En Edificio Don Salvador,$680.000,1 dormitorio,1 baño,40 m² útiles,"Salvador Reyes 1230, Parque Brasil, Antofagasta",antofagasta
+Se Arrienda Depto 1d/1b En Edificio Don Salvador,$680.000,1 dormitorio,1 baño,40 m² útiles,"Salvador Reyes 1230, Parque Brasil, Antofagasta",antofagasta
+"Departamento Remodelado, Amplio Y Tranquilo.",$650.000,3 dormitorios,2 baños,78 m² útiles,"Hermógenes Alfaro 1360, 1270152 Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
+Oportunidad! Depto Parque Brasil 3d/3b Edificio Inmigrantes,$1.000.000,3 dormitorios,3 baños,92 m² útiles,"José Miguel Carrera 1663, Antofagasta, Chile, Parque Brasil, Antofagasta",antofagasta
 Departamento En Arriendo Condominio Jardin Del Pacifico,$1.100.000,3 dormitorios,2 baños,100 m² útiles,"Av. Angamos 1100, Antofagasta, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
 Departamento 3d 2b Condominio Costa Laguna,$650.000,3 dormitorios,2 baños,100 m² útiles,"Gladys Marín 625, Antofagasta, Costa Laguna, Antofagasta",antofagasta
-Se Arrienda Departamento Amoblado,$650.000,2 dormitorios,1 baño,80 m² útiles,"Nicolás Tirado  20, Nicolás Tirado, Antofagasta",antofagasta
 Departamento 3 Habitaciones Bodega Estacionamiento,$900.000,3 dormitorios,2 baños,90 m² útiles,"Nicolás Tirado  90, Nicolás Tirado, Antofagasta",antofagasta
 Arriendo Departamento 2d/2b/1bod/1e Centro Antofagasta,$680.000,2 dormitorios,2 baños,58 m² útiles,"Maipu 936, Centro De Antofagasta, Antofagasta",antofagasta
-"Amplio Y Cómodo Departamento, Con Vista Al Mar.",$830.000,3 dormitorios,2 baños,80 m² útiles,"Av. Cardenal Carlos Oviedo Cavada 4455, Antofagasta, Playa Paraíso, Antofagasta",antofagasta
-Departamento 2d Y 2b Calama,$780.000,2 dormitorios,2 baños,62 m² útiles,"Circunvalación  SN, Hospital Regional, Antofagasta",antofagasta
+Arriendo Departamento En Condominio Leonora Latorre.,$520.000,2 dormitorios,1 baño,40 m² útiles,"Nicolás Tirado 1 - 300, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
+Arriendo Hermoso Departamento Avda Brasil Antofagasta,$1.000.000,3 dormitorios,3 baños,100 m² útiles,"Avenida Libertador B. O'Higgins 1244, Parque Brasil, Antofagasta",antofagasta
 Arriendo Hermoso Departamento 3d3b Antofagasta,$1.050.000,3 dormitorios,3 baños,145 m² útiles,"Av. Argentina, Antofagasta, Estadio Calvo Y Bascuñán, Antofagasta",antofagasta
-Departamento No Amoblado - Ggcc Incluidos,$1.100.000,3 dormitorios,2 baños,540 m² útiles,"Av. Jaime Guzmán Errázuriz, Antofagasta, Antofagasta",antofagasta
+Departamento 2d Y 2b Calama,$780.000,2 dormitorios,2 baños,62 m² útiles,"Circunvalación  SN, Hospital Regional, Antofagasta",antofagasta
+Arriendo Departamento Sector Norte,$600.000,2 dormitorios,1 baño,43 m² útiles,"Ascotán Nte. 1 - 300, Antofagasta, La Chimba, Antofagasta",antofagasta
+Departamento Nuevo,$590.000,2 dormitorios,2 baños,49 m² útiles,"Ascotán Nte., Antofagasta, La Chimba, Antofagasta",antofagasta
 Departamento En Arriendo,$900.000,3 dormitorios,2 baños,67 m² útiles,"Antilhue 0830, Coviefi, Antofagasta",antofagasta
 Hermoso Departamento 1d1b Gastos Comunes Incluidos,$500.000,1 dormitorio,1 baño,37 m² útiles,"El Oro 8100 - 8400, Antofagasta, Nicolás Tirado, Antofagasta",antofagasta
 Departamento 1 D1b Sector Sur Mall Angamos Antofagasta,$630.000,1 dormitorio,1 baño,40 m² útiles,"Avenida Cerro Paranal 515, Coviefi, Antofagasta",antofagasta
 "Departamento Amoblado, Edificio Icono.",$750.000,2 dormitorios,1 baño,48 m² útiles,"Uribe 305, Antofagasta, Centro De Antofagasta, Antofagasta",antofagasta
-Departamento Nuevo,$590.000,2 dormitorios,2 baños,49 m² útiles,"Ascotán Nte., Antofagasta, La Chimba, Antofagasta",antofagasta
 "Hermoso,cómodo, Funcional Pequeño Loft.amoblado En Avenida A",$500.000,1 dormitorio,1 baño,20 m² útiles,"Avenida Antonio Rendic  5625, Hospital Regional, Antofagasta",antofagasta
 Hermoso Depto. Amoblado Costa Laguna,$980.000,3 dormitorios,2 baños,98 m² útiles,"Avenida Gladys Marin 0625, Costa Laguna, Antofagasta",antofagasta
-Arriendo Departamento Amoblado Edificio Futuro,$1.200.000,3 dormitorios,3 baños,120 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
-Arriendo Departamento Amoblado Edificio Futuro,$1.200.000,3 dormitorios,3 baños,120 m² útiles,"Centro De Antofagasta, Antofagasta",antofagasta
+"Dpto. 403 Ed. Punta De Rieles, Condominio Parque Juan López",$580.000,2 dormitorios,1 baño,50 m² útiles,"Lidia Moreno 265, Antofagasta, Parque Juan López, Antofagasta",antofagasta
+Arriendo Dpto Frente Al Mar,$550.000,2 dormitorios,1 baño,7 m² útiles,"Av. Edmundo Pérez Zujovic 5134, Antofagasta, Hospital Regional, Antofagasta",antofagasta
+Arriendo Excelente Dpto Av Brasil 1h1b Con Terraza,$620.000,1 dormitorio,1 baño,54 m² útiles,"Aconcagua 923, Antofagasta, Parque Brasil, Antofagasta",antofagasta
+Se Vende Departamento Amoblado En Antofagasta (costa Laguna),UF5.200,3 dormitorios,2 baños,,"Gladys Marín 625, Antofagasta, Chile, Costa Laguna, Antofagasta",antofagasta
+Se Arrienda Acogedor Departamento Céntrico,$630.000,2 dormitorios,1 baño,52 m² útiles,"Sur De Calama, Calama, Antofagasta",calama
+"Departamento Tipo Mariposa, Amoblado.",$935.000,2 dormitorios,2 baños,54 m² útiles,"Centro De Calama, Calama, Antofagasta",calama
+Arriendo Depto. Estilo Mariposa / Empresas,$1.300.000,2 dormitorios,2 baños,60 m² útiles,"Estadio Zorros Del Desierto, Calama, Antofagasta",calama
+"Departamento Tipo Mariposa, Amoblado Para Empresa.",$1.300.000,2 dormitorios,2 baños,60 m² útiles,"Centro De Calama, Calama, Antofagasta",calama
+Departamento Centrico,$700.000,2 dormitorios,1 baño,50 m² útiles,"Centro De Calama, Calama, Antofagasta",calama
+"Departamento Tipo Mariposa, Amoblado, Para Empresa.",$1.300.000,2 dormitorios,2 baños,54 m² útiles,"Centro De Calama, Calama, Antofagasta",calama
+Arriendo Dpto. Estilo Mariposa - Empresa,$1.300.000,2 dormitorios,2 baños,60 m² útiles,"Estadio Zorros Del Desierto, Calama, Antofagasta",calama
+Arriendo 987005522,$930.000,2 dormitorios,2 baños,5.322 m² útiles,"Balmaceda  1414, Antofagasta, Calama 987005522, Estadio Zorros Del Desierto, Calama, Antofagasta",calama
+Departamento Amoblado Cond. Oasis Del Loa 3d/2b/1e,$820.000,3 dormitorios,2 baños,72 m² útiles,"Condominio Oasis Del Loa, Sur De Calama, Calama, Antofagasta",calama
 Departamento Amoblado Ed. Turi 3d/2b/1e,$790.000,3 dormitorios,2 baños,74 m² útiles,"Edificio Turi, Sur De Calama, Calama, Antofagasta",calama
-Departamento Amoblado Cond. Oasis Del Loa 2d/2b/1e,$710.000,2 dormitorios,2 baños,70 m² útiles,"Condominio Oasis Del Loa, Sur De Calama, Calama, Antofagasta",calama
+"Departamento En Arriendo 1d/1b/1e, Ed. Espacio Parque",$550.000,1 dormitorio,1 baño,39 m² totales,"Edificio Espacio Parque, Centro De Calama, Calama, Antofagasta",calama
 Arriendo Departamento Amoblado,$700.000,2 dormitorios,2 baños,54 m² útiles,"Centro De Calama, Calama, Antofagasta",calama
+Edificio Av. Circunvalación (1 Est. 1 Bod.) Vista Oriente,$670.000,3 dormitorios,2 baños,77 m² útiles,"Av. Circunvalación 1458, Calama, Antofagasta",calama
 Departamento De Dos Habitaciones (99253),$800.000,2 dormitorios,2 baños,140 m² útiles,"DEPARTAMENTO EN ARRIENDO, Avenida Almirante Grau, Calama, Antofagasta",calama
 Arriendo De Departamento (83216),$780.000,2 dormitorios,2 baños,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
 Departamento Amoblado Para Empresas (98358),$700.000,2 dormitorios,2 baños,52 m² útiles,"Bartolomé Vivar 1 - 300, Centro De Calama, Calama, Antofagasta",calama
-Departamento 76 Mt2 En Calama (81252),$900.000,2 dormitorios,2 baños,76 m² útiles,"Antofagasta 1 - 300, Centro De Calama, Calama, Antofagasta",calama
-Departamento En Calama Amoblado (94509),$850.000,2 dormitorios,2 baños,61 m² útiles,"Departamento Amoblado Para Empresas Calama, Avenida Almirante Grau, Calama, Antofagasta",calama
 Elegante Departamento 2 Habitaciones   (69095),$800.000,2 dormitorios,2 baños,70 m² útiles,"Edificio Eduardo Abaroa - Avenida Balmaceda, Calama, II Región, Chile, Estadio Zorros Del Desierto, Calama, Antofagasta",calama
 2 Habitaciones Sin Amoblar  (64553),$650.000,2 dormitorios,2 baños,60 m² útiles,"DEPARTAMENTO 1 - 300DORMITORIOS Y DOS BAÑOS, Estadio Zorros Del Desierto, Calama, Antofagasta",calama
 Departamento Estilo Mariposa (69897),$780.000,2 dormitorios,2 baños,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
 Arriendo De Departamento (68387),$650.000,,,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
-1 Ambiente  (75711),$600.000,1 dormitorio,1 baño,60 m² útiles,"DEPARTAMENTO AMOBLADO, Sur De Calama, Calama, Antofagasta",calama
+1 Dormitorio  (75711),$600.000,1 dormitorio,1 baño,60 m² útiles,"Departamento Imagina - Avenida Balmaceda, Calama, Chile, Sur De Calama, Calama, Antofagasta",calama
 Arriendo Departamento (101109),$750.000,2 dormitorios,2 baños,50 m² útiles,"Avenida Balmaceda 1 - 300, Calama, Antofagasta",calama
 Arriendo De Departamento  (87119),$860.000,2 dormitorios,2 baños,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
 Arriendo Depto. Cond. Valle Altiplánico Calam (100536),$780.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Circunvalación Presidente Salvador Allende 1 - 300, Avenida Almirante Grau, Calama, Antofagasta",calama
-Departamento En Arriendo  (87741),$650.000,2 dormitorios,1 baño,,"SE Arrienda Departamento, Centro De Calama, Calama, Antofagasta",calama
+Arriendo De Departamento  (87741),$650.000,2 dormitorios,1 baño,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
+Departamento Amoblado En Arriendo (103079),$870.000,,,,"Calama, Chile, Calama, Antofagasta",calama
 Arriendo De Departamento (83229),$800.000,2 dormitorios,3 baños,,"Calama, Chile, Calama, Antofagasta",calama
-Departamento En Arriendo (97971),$870.000,,,,"ARRIENDO BELLO DEPARTAMENTO, Calama, Antofagasta",calama
 Departamento En Arriendo 2 Habitaciones (101909),$900.000,2 dormitorios,2 baños,60 m² útiles,"Bartolomé Vivar 1 - 300, Centro De Calama, Calama, Antofagasta",calama
 Departamento Central  (69863),$450.000,1 dormitorio,1 baño,1 m² útiles,"Emilio Sotomayor, Calama, Chile, Calama Poniente, Calama, Antofagasta",calama
+Arriendo Habitación Amoblada Cerca Del Mall (103061),$300.000,1 dormitorio,1 baño,20 m² útiles,"Tiltil 1200 - 1500, Avenida Almirante Grau, Calama, Antofagasta",calama
 Arriendo De Departamento (68385),$650.000,,,,"Calama, Chile, Centro De Calama, Calama, Antofagasta",calama
-Edificio Av. Circunvalación (1 Est. 1 Bod.) Vista Oriente,$700.000,3 dormitorios,2 baños,77 m² útiles,"Av. Circunvalación 1458, Calama, Antofagasta",calama
-Edificio Av. Circunvalación (1 Est. 1 Bod.) Vista Oriente,$670.000,3 dormitorios,2 baños,77 m² útiles,"Av. Circunvalación 1458, Calama, Antofagasta",calama
-Arriendo 987005522,$930.000,2 dormitorios,2 baños,5.322 m² útiles,"Balmaceda  1414, Antofagasta, Calama 987005522, Estadio Zorros Del Desierto, Calama, Antofagasta",calama
+Habitacalama Busca,$999.999,,,,"Vicuña Mackenna 3281, Calama Poniente, Calama, Antofagasta",calama
+"Edificio Andes, Arrienda Dpto Amoblado. 3d. 2b.",$780.000,3 dormitorios,2 baños,60 m² útiles,"CALAMA, Centro De Calama, Calama, Antofagasta",calama
 Se Arrienda Hermoso Y Amplio Departamento Sin Amoblar,$750.000,3 dormitorios,2 baños,95 m² útiles,"SE ARRIENDA HERMOSO Y AMPLIO DEPARTAMENTO SIN AMOBLAR, Estadio Zorros Del Desierto, Calama, Antofagasta",calama
+Departamento Amoblado En Arriendo Con Gasto Común Incluido,$620.000,1 dormitorio,1 baño,67 m² útiles,"DEPARTAMENTO AMOBLADO EN ARRIENDO CON GASTO COMÚN INCLUIDO, Sur De Calama, Calama, Antofagasta",calama
+Edificio Torre Central,$830.000,2 dormitorios,2 baños,78 m² útiles,"EDIFICIO TORRE CENTRAL, Centro De Calama, Calama, Antofagasta",calama
 Se Arrienda Depto 2h2b Sin Muebles Edificio Santiago Calama,$650.000,2 dormitorios,2 baños,67 m² útiles,"Santiago 2249, Calama, Sur De Calama, Calama, Antofagasta",calama
 Se Arrienda Departamento 2h2b Borde Rio I Calama,$890.000,2 dormitorios,2 baños,70 m² útiles,"Avenida Bernardo O'Higgins 214, Calama, Sur De Calama, Calama, Antofagasta",calama
 "Edificio Andes, Arrienda Dpto Amoblado. 3d. 2b.",$780.000,3 dormitorios,2 baños,60 m² útiles,"Calama, Antofagasta",calama
 Hermoso Y Gran Departamento En Calama,$1.800.000,3 dormitorios,2 baños,130 m² útiles,"Av. Cv Pdte. Salvador Allende 1458, El Loa, Calama, Avenida Almirante Grau, Calama, Antofagasta",calama
-Excelente Departamento A Pasos Del Centro,$550.000,2 dormitorios,2 baños,51 m² útiles,"Avenida Balmaceda 1414, Calama, Chile, Sur De Calama, Calama, Antofagasta",calama
+Departamento En Arriendo De 1 Dorm. En Calama,$400.000,1 dormitorio,1 baño,40 m² útiles,"Estadio Municipal/Club De Campo Cobreloa, Sur De Calama, Calama, Antofagasta",calama
 Arriendo Departamento Amoblado Borde Rio 2d2b,$850.000,2 dormitorios,2 baños,63 m² útiles,"Sur De Calama, Calama, Antofagasta",calama
 Arriendo Departamento Amoblado En Condominio Borde Rio,$1.200.000,3 dormitorios,2 baños,110 m² útiles,"Calama Poniente, Calama, Antofagasta",calama
 "Departamento Full Equipado, Ejecutivo.",$750.000,2 dormitorios,2 baños,52 m² útiles,"Bartolomé Vivar 1580, Calama, Centro De Calama, Calama, Antofagasta",calama
 Departamento 2d2b1e Sector Consolidado,$680.000,2 dormitorios,2 baños,68 m² útiles,"Bartolomé Vivar 1455, Calama, Sur De Calama, Calama, Antofagasta",calama
-Departamento Tipo Estudio Calama,$550.000,1 dormitorio,1 baño,25 m² útiles,"Balmaceda 1466, Sur De Calama, Calama, Antofagasta",calama
-Se Arrienda Dpto Borde Rio 2 Dormitorios 2 Baños Amoblado,$870.000,2 dormitorios,2 baños,90 m² útiles,"Bernardo O'higgins 214, Calama Poniente, Calama, Antofagasta",calama
 Dormitorios,$250.000,1 dormitorio,1 baño,1 m² útiles,"Latorre  1455, Sur De Calama, Calama, Antofagasta",calama
+Departamento Tipo Estudio Calama,$550.000,1 dormitorio,1 baño,25 m² útiles,"Balmaceda 1466, Sur De Calama, Calama, Antofagasta",calama
 "Depto 2 Dormitorios Ambos Con Baño Privado ,amoblado",$720.000,2 dormitorios,2 baños,50 m² útiles,"Balmaceda 1504 605, Centro De Calama, Calama, Antofagasta",calama
+Se Arrienda Dpto Borde Rio 2 Dormitorios 2 Baños Amoblado,$870.000,2 dormitorios,2 baños,90 m² útiles,"Bernardo O'higgins 214, Calama Poniente, Calama, Antofagasta",calama
+Departamento En Calama Para Empresas (104039),$900.000,2 dormitorios,2 baños,76 m² útiles,"Serena 1 - 300, Sur De Calama, Calama, Antofagasta",calama
