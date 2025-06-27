@@ -1,0 +1,21 @@
+# Archivos de Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Archivos temporales
+*.pyc
+__pycache__/
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.venv/
+venv/
+ENV/
+
+# Archivos del navegador
+*.edge
